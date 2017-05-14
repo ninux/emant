@@ -1,0 +1,5 @@
+ERROR Illegal Operation in current context
+Traceback (most recent call last):
+  File "./ganymed_2/uibase/action.py", line 217, in execute
+  File "./ganymed_2/uibase/action.py", line 306, in _execute
+StandardError: Illegal Operation in current context

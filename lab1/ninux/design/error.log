@@ -1,0 +1,7 @@
+ERROR 0600 export_3d:  only possible in 3D view mode
+Traceback (most recent call last):
+  File "./ganymed_2/uibase/action.py", line 217, in execute
+  File "./ganymed_2/uibase/action.py", line 298, in _execute
+  File "./ganymed_2/command.py", line 2729, in export_3d_png
+  File "./ganymed_2/viewport.py", line 292, in export_3d
+StandardError: 0600 export_3d:  only possible in 3D view mode

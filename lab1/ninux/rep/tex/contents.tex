@@ -1,0 +1,66 @@
+% titlepages
+\input{tex/title/title}
+
+% declaration
+\input{tex/declaration/declaration}
+
+% abstract
+\input{tex/abstract/abstract}
+\newpage
+\thispagestyle{empty} ~ % add blank page
+%\shorttoc{Kapitelübersicht}{0}
+%\newpage
+\tableofcontents
+\clearpage
+
+% document contents
+\input{tex/introduction/introduction}
+\clearpage
+\input{tex/experimental/experimental}
+\clearpage
+\input{tex/results/results}
+\clearpage
+\input{tex/discussion/discussion}
+\clearpage
+
+\cite{ts}
+
+% bibliography
+\newpage
+\cleardoublepage
+\addcontentsline{toc}{section}{Literatur}
+\input{tex/biblio/bib.tex}
+
+
+% glossary
+\newpage
+\cleardoublepage
+
+\clearpage
+%\begin{multicols}{2}
+%	\scriptsize
+%	\glossarystyle{altlistgroup}
+%	\glsaddall
+%	\printglossary[title=Glossar]
+	\printglossaries
+%\end{multicols}
+
+% list of figures
+\clearpage
+%\newpage
+%\cleardoublepage
+% \phantomsection
+\addcontentsline{toc}{section}{Abbildungen}
+\listoffigures
+
+% lsit of tables
+\clearpage
+%\newpage
+%\cleardoublepage
+% \phantomsection
+\addcontentsline{toc}{section}{Tabellen}
+\listoftables
+
+% appendix
+\clearpage
+\input{tex/appendix/appendix}

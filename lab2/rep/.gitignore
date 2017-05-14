@@ -1,0 +1,10 @@
+# ignore generated files from (pdf* La)TeX
+*.acn
+*.aux
+*.glo
+*.lof
+*.lot
+*.pdf
+*.gz
+*.toc
+*.xdy

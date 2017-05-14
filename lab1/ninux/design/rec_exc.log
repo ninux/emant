@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "./pylib/Tkinter.py", line 1363, in __call__
+  File "./ganymed_2/ff_browser.py", line 744, in move_cursor
+  File "./ganymed_2/ff_browser.py", line 633, in event_to_coords
+AttributeError: FF_BROWSER instance has no attribute 'xy2tp'
+Traceback (most recent call last):
+  File "./pylib/Tkinter.py", line 1363, in __call__
+  File "./ganymed_2/ff_browser.py", line 744, in move_cursor
+  File "./ganymed_2/ff_browser.py", line 633, in event_to_coords
+AttributeError: FF_BROWSER instance has no attribute 'xy2tp'

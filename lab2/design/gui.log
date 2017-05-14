@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+
+  File "./pylib/Tkinter.py", line 1363, in __call__
+
+  File "./ganymed_2/uibase/action.py", line 2079, in event
+
+  File "./ganymed_2/uibase/action.py", line 2035, in do_key
+
+  File "./ganymed_2/uibase/action.py", line 217, in execute
+
+  File "./ganymed_2/uibase/action.py", line 298, in _execute
+
+  File "./ganymed_2/stack.py", line 132, in escape
+
+AttributeError: stack_design_3d instance has no attribute 'struc_agent'
+

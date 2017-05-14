@@ -1,0 +1,255 @@
+GANYMEDE  7.52 build 13373
+BINARY 382506474496
+
+
+sETTINGS 'KGRwMQpTJ19fb3B0X19leHBfaHBnbF9mYWN0JwpwMgpTJzEvMjUuNCcKcDMKc1MnX19vcHRfX2QzbWZzJwpwNApTJzE0JwpwNQpzUyd6bWluJwpwNgpTJ3BtbCA2JwpwNwpzUydfX29wdF9fZDNzcGVlZCcKcDgKUycxMDAwJwpwOQpzUydfX2F1dG9kaXNjX196bWluJwpwMTAKRi0yMC4zNTAwMDAwMDAwMDAwMDEKc1MnZXBzZWZmJwpwMTEKRjEKc1MnX19vcHRfX3phdW5fZXhwZW5zaXZlJwpwMTIKUydvZmYnCnAxMwpzUydyZW1vdGVfZW5hXzFfMScKcDE0ClMnMScKc1MnX19vcHRfX3RvX3BvbHlfa2VlcF9ncm91cCcKcDE1ClMnb24nCnAxNgpzUydhdXRvYWxnbycKcDE3ClMnMicKc1Mnc3Jjc3VtJwpwMTgKSTIwMApzUydlb3JkJwpwMTkKUyc0MCcKcDIwCnNTJ19fb3B0X19zdGxzZXAnCnAyMQpTJ29mZicKcDIyCnNTJ3ltaW5fYXMnCnAyMwpTJ2F1dG9tYXRpYycKcDI0CnNTJ19fYXV0b2Rpc2NfX3ltYXgnCnAyNQpGMjguNzUKc1MnbXBjJwpwMjYKUydvZmYnCnAyNwpzUydfX29wdF9fYXJjdG9sJwpwMjgKUycxJwpzUydyZW1vdGVfbGltaXRfOTk5XzEnCnAyOQpTJzEnCnNTJ19fYXV0b2Rpc2NfX2ZtbGltaXQnCnAzMApGMC4wNTAwMDAwMDAwMDAwMDAwMDMKc1MnX19vcHRfX2QzZF9zd2l0Y2hfcHJvbV92ZXJ0cycKcDMxClMnb24nCnAzMgpzUydfX29wdF9fY3Vyc29yX2NvbG9yJwpwMzMKUydncmV5MjAnCnAzNApzUydsZXZlbCcKcDM1ClMnMCcKc1MnX19vcHRfX2FsbHRyaScKcDM2ClMnb2ZmJwpwMzcKc1MnYmF0Y2hfZGlyc181JwpwMzgKUydhbGwnCnAzOQpzUydfX29wdF9fZDNkX2dyaWRfc2l6ZV9uZXcnCnA0MApTJzIwMCcKcDQxCnNTJ19fb3B0X19nZHNtaW5zaXplJwpwNDIKUycwJwpzUydfX29wdF9fZGlzY21haW4nCnA0MwpTJ29mZicKcDQ0CnNTJ2V4dHlwZScKcDQ1ClMnZ2F1c3MnCnA0NgpzUydfX29wdF9fZDNkX2dyaWRfcmVzb2x1dGlvbicKcDQ3ClMnNSBTY3JlZW4gJScKcDQ4CnNTJ19fb3B0X19leHBfZ2JyX2ZhY3QnCnA0OQpTJzEnCnNTJ19fb3B0X19wb2ludF90ZXh0JwpwNTAKUydub3JtYWwnCnA1MQpzUydndWlfZXhwb3J0JwpwNTIKUycxJwpzUydndWlfcmVmcmVzaCcKcDUzClMnMScKc1MnX19vcHRfX2ltcGNpcmN0b2wnCnA1NApTJ2F1dG8nCnA1NQpzUydfX29wdF9fZHhmaG9sZXMnCnA1NgpTJ2tlZXAnCnA1NwpzUydfX29wdF9fZHJsZW4nCnA1OApTJzEuNScKcDU5CnNTJ19fYXV0b2Rpc2NfX3JlZmluZScKcDYwClMnMycKc1MndGVtcGxhdGUnCnA2MQpTJ01pY3Jvc3RyaXAgQW50ZW5uYScKcDYyCnNTJ2RvX3AnCnA2MwpTJzAnCnNTJ19fb3B0X19kM2Rfc25hcF9waXh0b2wxJwpwNjQKSTEwCnNTJ3JlbW90ZV9saW1pdF8xXzEnCnA2NQpTJzEnCnNTJ3RocmVhZHMnCnA2NgpTJzInCnNTJ19fb3B0X19kcmRtYXgnCnA2NwpJNjAwMApzUyd3Z19wb3J0X2Fic29yYicKcDY4ClMnMScKc1MnX19vcHRfX2V4cF9wdycKcDY5ClMnMjgwIG1tJwpwNzAKc1MndGhfYmxvb2RfdGVtcCcKcDcxClMnMzEwJwpwNzIKc1Mnb3B0aW1pc2VyXzFfc2hydCcKcDczClMnb25seSB1c2VkIHBhcmFtZXRlcnMnCnA3NApzUyd0ZGZpbHRlcicKcDc1ClMnMCcKc1MnX19vcHRfX2NhZGNvbl9zdGl0Y2gnCnA3NgpTJ09mZicKcDc3CnNTJ3czMm1lbWJsb2NrJwpwNzgKUycwJwpzUydkb195JwpwNzkKUycwJwpzUyd5bWluJwpwODAKUydwbWwgNicKcDgxCnNTJ19fYXV0b2Rpc2NfX2NsYW0nCnA4MgpJOApzUydzaW10aW1lJwpwODMKRjAuMDEKc1MnZnNfZmllbGRfY29udicKcDg0ClMnMC4wNScKcDg1CnNTJ1VTRUREVCcKcDg2ClMnMCcKc1MnX19vcHRfX2JuZHBoaTAnCnA4NwpTJzUwLjAnCnA4OApzUydfX29wdF9fYm5kcGhpMScKcDg5ClMnNTAuMCcKcDkwCnNTJ19fb3B0X19kZWcnCnA5MQpTJzExLjI1JwpwOTIKc1MndGhfdHlwZScKcDkzClMnc3RhdGljJwpwOTQKc1MnX19vcHRfX21zY2FsZScKcDk1ClMnMScKc1MncmVtb3RlX2VuYV85OTlfMScKcDk2ClMnMScKc1Mnem1heF9hcycKcDk3ClMnYXV0b21hdGljJwpwOTgKc1MncmVtb3RlX3ByZicKcDk5ClMnJEhPTUUvLmJhc2hfcHJvZmlsZScKcDEwMApzUydfX29wdF9fbXRpYycKcDEwMQpTJzUnCnNTJ2F1dG9zeW5jJwpwMTAyClMnMCcKc1MnX19hdXRvZGlzY19fZWRnZW1vdmUnCnAxMDMKUycxMCcKcDEwNApzUydhdXRvcmVzbycKcDEwNQpTJy0xJwpwMTA2CnNTJ19fb3B0X19iZ19jb2xvcl9jb3JyJwpwMTA3ClMnMjInCnAxMDgKc1MnY2xldmVsJwpwMTA5ClMnNScKc1MnX19vcHRfX2RyY3RvbCcKcDExMApJMTAKc1MnYmF0Y2hfZGlyc18zJwpwMTExCmczOQpzUydiYXRjaF9kaXJzXzEnCnAxMTIKZzM5CnNTJ2JhdGNoX2RpcnNfNicKcDExMwpnMzkKc1MnX19vcHRfX2QzZF9zd2l0Y2hfY2lyY3VsYXJfY3VydmVzJwpwMTE0ClMnb2ZmJwpwMTE1CnNTJ2JhdGNoX2RpcnNfNCcKcDExNgpnMzkKc1MnX19vcHRfX2V4cF9keGZfZmFjdCcKcDExNwpTJzEnCnNTJ2JhdGNoX2RpcnNfOCcKcDExOApnMzkKc1MnYmF0Y2hfZGlyc185JwpwMTE5CmczOQpzUyd4bWluX2FzJwpwMTIwClMnYXV0b21hdGljJwpwMTIxCnNTJ19fb3B0X19wb2ludF9jb2xvcicKcDEyMgpTJ3JlZCcKcDEyMwpzUydNQVRFUklBTCcKcDEyNApTJ0xMJwpwMTI1CnNTJ19fYXV0b2Rpc2NfX3htYXgnCnAxMjYKRjM3Ljc1CnNTJ3ptaW5fYXMnCnAxMjcKUydhdXRvbWF0aWMnCnAxMjgKc1MnX19vcHRfX2V4Y3N0YXJ0JwpwMTI5ClMnMCAwJwpwMTMwCnNTJ3htaW4nCnAxMzEKUydwbWwgNicKcDEzMgpzUydOT1ZFUicKcDEzMwpTJzInCnNTJ1BHQScKcDEzNApTJzAnCnNTJ2RlbGF5JwpwMTM1ClMnMCcKc1Mnb3B0aW1pc2VyJwpwMTM2ClMndmFyaWF0b3InCnAxMzcKc1MnX19vcHRfX3N0cmlwX21vZGUnCnAxMzgKUydzaW1wbGUgb3BlbicKcDEzOQpzUydwb3J0bW9kZScKcDE0MApTJ3NlcXVlbnRpYWwnCnAxNDEKc1MncGFyX2VxbnMnCnAxNDIKUydLR1J3TVFvdScKcDE0MwpzUydfX29wdF9fYm5kdycKcDE0NApTJzUnCnNTJ3RoX2NvbnZlY3Rpb24nCnAxNDUKUydhdXRvbWF0aWMnCnAxNDYKc1MnbnVtYScKcDE0NwpTJ2F1dG8nCnAxNDgKc1MnX19vcHRfX2V4cF9nYnJfc2xpY2UnCnAxNDkKUydvbicKcDE1MApzUydfX29wdF9fbHB3aWR0aCcKcDE1MQpJMApzUydfX29wdF9fY2FkY29uX2dyb3VwZGVwdGgnCnAxNTIKUydBcyBPcmlnaW5hbCcKcDE1MwpzUydfX29wdF9fdGV4dHNldCcKcDE1NApTJ29mZicKcDE1NQpzUydfX29wdF9fYmdfY29sb3InCnAxNTYKUycjREZERkYwJwpwMTU3CnNTJ19fb3B0X19ibmROJwpwMTU4ClMnMTAnCnAxNTkKc1MnbHBpXzEnCnAxNjAKUydkZWZhdWx0JwpwMTYxCnNTJ19fYXV0b2Rpc2NfX2ZtcnVsZScKcDE2MgpTJzEnCnNTJ29wZXJhdGlvbnMnCnAxNjMKUydVeUo3SjNOMVlpMWhiR3duT2x0ZExDZHpkWEJsY25CdmMybDBhVzl1SnpwYlhTd25lWEJoY2ljNlcxMHNKM04xWWkweEp6cGJYU3duYzNCaGNpYzZXMTE5SWdwd01Rb3UnCnAxNjQKc1MnX19vcHRfX3phdW5fZGlhJwpwMTY1ClMnMjAwJwpwMTY2CnNTJ3ptYXgnCnAxNjcKUydwbWwgNicKcDE2OApzUydfX29wdF9fZXhjZm10JwpwMTY5ClMnJS4zZicKcDE3MApzUydfX2F1dG9kaXNjX19kaXN6X29wdCcKcDE3MQpTJ29mZicKcDE3MgpzUydvcHRpbWlzZXJfMV9zZmQnCnAxNzMKRjAuNQpzUydfX29wdF9femF1bl9kcmNfZmFpbCcKcDE3NApTJ2Vycm9yJwpwMTc1CnNTJ19fb3B0X19leGNkZWNpJwpwMTc2ClMnNCcKc1MnX19vcHRfX3ZlcmxhdWYzZCcKcDE3NwpTJ3Ntb290aF9hJwpwMTc4CnNTJ19fb3B0X19taGVhZCcKcDE3OQpTJ0FVVE8nCnAxODAKc1MnX19hdXRvZGlzY19fYWNjdXJhY3knCnAxODEKUycxZS02JwpwMTgyCnNTJ19fb3B0X19ob3NuYXAnCnAxODMKUycyJwpzUydfX2F1dG9kaXNjX19zY2FucG9pbnRzJwpwMTg0ClMnNTAwMCcKcDE4NQpzUydfX29wdF9fbGF5ZXJfb3JkZXInCnAxODYKUydub3JtYWwnCnAxODcKc1MnbmZ0aW1lJwpwMTg4ClMnMCcKc1MnX19hdXRvZGlzY19faW5uZXJfc3RydWN0dXJlJwpwMTg5ClMnMCcKc1MnZGVidWcnCnAxOTAKUycxMDAnCnAxOTEKc1MnX19hdXRvZGlzY19fcGRpcicKcDE5MgpTJ05vbmUnCnAxOTMKc1MnX19vcHRfX2QzZF9vYmplY3RfaGVpZ2h0JwpwMTk0ClMnZnJvbV9ncm91cChyZWxhdGl2ZSknCnAxOTUKc1MnX19hdXRvZGlzY19fZG1pbmEnCnAxOTYKUycxLjVlLTA1XzRlLTA1XzEuNWUtMDYnCnAxOTcKc1MndGhfdDAnCnAxOTgKRjMwMApzUydpZGxjbG9zZScKcDE5OQpTJzEnCnNTJ19fb3B0X19pY3NpemUnCnAyMDAKUydkZWZhdWx0JwpwMjAxCnNTJ19fb3B0X19kM21sdycKcDIwMgpTJzInCnNTJ19fb3B0X19ibmR6MScKcDIwMwpTJzAnCnNTJ19fb3B0X19ibmR6MCcKcDIwNApTJzAnCnNTJ19fb3B0X19kcnB0b2wnCnAyMDUKSTEwCnNTJ19fYXV0b2Rpc2NfX2FtaW4nCnAyMDYKUyczMCcKcDIwNwpzUydndWlfY2xlYW51cCcKcDIwOApTJzAnCnNTJ3RoX3JhZGlhdGlvbicKcDIwOQpTJ2F1dG9tYXRpYycKcDIxMApzUydyZW1vdGVfZGlyJwpwMjExClMnbm9uZScKcDIxMgpzUydQR0FfQUNDVScKcDIxMwpTJzEwJwpwMjE0CnNTJ19fb3B0X19kM2Rfc3dpdGNoX29iamVjdF9wbGFuZXMnCnAyMTUKUydvbicKcDIxNgpzUydfX29wdF9fc3VyZmFuZycKcDIxNwpJMzAKc1MnX19hdXRvZGlzY19fZG1pbicKcDIxOApTJzAuMDE1XzAuMDRfMC4wMDE1JwpwMjE5CnNTJ19fb3B0X19kM2RfZ3JpZF90cmFuc3BhcmVuY3knCnAyMjAKUycxMCAlJwpwMjIxCnNTJ19fb3B0X19kM2RfYmdfY29sb3InCnAyMjIKUycjZjBmMGYwJwpwMjIzCnNTJ19fb3B0X19wbWluYW5nJwpwMjI0ClMnMScKc1MncG9zdHByb2Nfc3ViLTEnCnAyMjUKUycxJwpzUydndWlfc2F2ZScKcDIyNgpTJzEnCnNTJ19fb3B0X19wY3JlYycKcDIyNwpJMTAKc1MnZ3VpX2F1dG9tZXNoJwpwMjI4ClMnMScKc1MnX19vcHRfX2dyaWRtYWluJwpwMjI5ClMnb2ZmJwpwMjMwCnNTJ19fb3B0X19zcmFkbGltaXQnCnAyMzEKUydTRVQnCnAyMzIKc1MnX19vcHRfX3ZzbmFwJwpwMjMzClMnID0gaG9yaXpvbnRhbCcKcDIzNApzUydyZW1vdGVfbWFjaGluZV8xXzEnCnAyMzUKUydsb2NhbGhvc3QnCnAyMzYKc1Mnb3B0aW1pc2VyXzFfbnVtYmVydXAnCnAyMzcKUycwJwpzUydsaWN3YWl0JwpwMjM4ClMnMCcKc1MnX19vcHRfX2QzZF9hc2toZWlnaHQnCnAyMzkKUydvbicKcDI0MApzUydfX29wdF9fZDNzaXplJwpwMjQxClMnYXV0bycKcDI0MgpzUydfX29wdF9fcHRvbCcKcDI0MwpTJzAuMDAwMScKcDI0NApzUydfX29wdF9fZHJsYW1wJwpwMjQ1ClMnMTkuNScKcDI0NgpzUydfX29wdF9femF1bl93aWQnCnAyNDcKUyczMDAnCnAyNDgKc1MnX19vcHRfX2QzZF9kcmVpYmVpbl9yZXNvbHV0aW9uJwpwMjQ5ClMnMTAgU2NyZWVuICUnCnAyNTAKc1Mnc3RhYl9yZXMnCnAyNTEKUycxJwpzUydmXzAnCnAyNTIKRjAKc1MnbWVtbGltaXQnCnAyNTMKUyc1MTInCnAyNTQKc1Mndm1jb21tJwpwMjU1ClMnY29tcGF0aWJsZScKcDI1NgpzUydfX29wdF9fc25hcGNvbG9yJwpwMjU3ClMnI2Y3MCcKcDI1OApzUydfX29wdF9fZHJ1bmRlcicKcDI1OQpJMzUKc1MnX19vcHRfX2QzZF9zcGhfYW5nbGVfc25hcCcKcDI2MApJNQpzUydfX29wdF9fZDNtY3MnCnAyNjEKUyc1MCcKcDI2MgpzUydmX2MnCnAyNjMKRjQwMDAwMDAwMDAKc1MnZG9fc3BhcicKcDI2NApTJzAnCnNTJ19fb3B0X19pbXBjaXJjbicKcDI2NQpJMTAKc1MnX19vcHRfX2Fycm93X2NvbG9yJwpwMjY2ClMncmVkJwpwMjY3CnNTJ19fb3B0X19leHBfcHNsX3NjYWxlJwpwMjY4ClMnNzIuMC8yNTQwMC4wJwpwMjY5CnNTJ19fb3B0X19kM2wwcCcKcDI3MApTJzAgMCAxIDAnCnAyNzEKc1MnX19vcHRfX2QzbDBzJwpwMjcyClMnMC45JwpwMjczCnNTJ19fb3B0X19wYmJveCcKcDI3NApTJzJkIHBlcnBlbmRpY3VsYXInCnAyNzUKc1MnYmF0Y2hfZGlyc18yJwpwMjc2CmczOQpzUydfX29wdF9fZDNkX3N3aXRjaF9zaWRlX21pZHMnCnAyNzcKUydvbicKcDI3OApzUydfX29wdF9fdm9zbmFwJwpwMjc5ClMnID0gaG9yaXpvbnRhbCcKcDI4MApzUydfX29wdF9fZDNsMGEnCnAyODEKUycwLjInCnAyODIKc1MnX19vcHRfX2QzZF9zcGhfbm9ydGhfcG9sZScKcDI4MwpTJ3ptYXgnCnAyODQKc1MnX19vcHRfX2QzZF9vcnRobycKcDI4NQpTJ29mZicKcDI4NgpzUydfX29wdF9fZDNsMGQnCnAyODcKUycwLjQnCnAyODgKc1MnX19vcHRfX2dlcmJ6ZXJvJwpwMjg5ClMndGhpbicKcDI5MApzUydfX29wdF9fdG9fcG9seV9oZWlnaHQnCnAyOTEKUydrZWVwJwpwMjkyCnNTJ19fb3B0X19tY29weScKcDI5MwpTJ21jb3B5KGR4PTEwMCxkeT0xMDAsbng9NSxueT01KScKcDI5NApzUydfX29wdF9fZXhwX2dicl9hcHAnCnAyOTUKUycwLjAwMScKcDI5NgpzUydhY2N1cmFjeScKcDI5NwpTJzFlLTUnCnAyOTgKc1MnX19vcHRfX2RyZHZpYScKcDI5OQpTJ29uJwpwMzAwCnNTJ19fb3B0X19kM2Rfc25hcF9yZXNvbHV0aW9uJwpwMzAxClMnMi41IFNjcmVlbiAlJwpwMzAyCnNTJ3NmaycKcDMwMwpTJzEwMCcKcDMwNApzUydjaGtzdW0nCnAzMDUKSTQwCnNTJ19fb3B0X19kM3RyYW5zcCcKcDMwNgpTJ2FjY3VyYXRlIGh3JwpwMzA3CnNTJ3RoX3N0b3JlJwpwMzA4ClMnOGJpdCcKcDMwOQpzUydfX29wdF9fZmxhdHJlY3QnCnAzMTAKUydvZmYnCnAzMTEKc1MnZ2FiX2Vwc3InCnAzMTIKUydvbicKcDMxMwpzUydfX2F1dG9kaXNjX19hcmNyZXMnCnAzMTQKUycyMi41JwpwMzE1CnNTJ19fb3B0X19zaXplM2QnCnAzMTYKUycxJwpzUydub3JtX2VmJwpwMzE3ClMnMScKc1MnX19vcHRfX2RyY2xpbWl0JwpwMzE4CkkxMgpzUydfX29wdF9faHNuYXAnCnAzMTkKUydzbWFsbCcKcDMyMApzUydndWlfbWVzc2FnZXMnCnAzMjEKUycwJwpzUydfX29wdF9fc21vb3RoM2QnCnAzMjIKUydvZmYnCnAzMjMKc1MncmVtb3RlcG9zdCcKcDMyNApTJzAnCnNTJ2JhdGNoX2RpcnNfNycKcDMyNQpnMzkKc1MnX19vcHRfX3ByaW50X3N6JwpwMzI2ClMnMScKc1MnX19vcHRfX2QzYmcnCnAzMjcKUyd3aGl0ZScKcDMyOApzUyd2ZXJzaW9uJwpwMzI5CkY3LjUxOTk5OTk5OTk5OTk5OTYKc1Mndm1zYXZlJwpwMzMwClMnb2ZmJwpwMzMxCnNTJ19fb3B0X19kM2RfcXVhbGl0eScKcDMzMgpTJ2hpZ2gnCnAzMzMKc1MncmVtb3RlX21hY2hpbmVfOTk5XzEnCnAzMzQKUydsb2NhbGhvc3QnCnAzMzUKc1MnX19vcHRfX2R4ZmNubicKcDMzNgpJMApzUydfX29wdF9fZ3ltc2NhbGUnCnAzMzcKSTEKc1MnX19vcHRfX3ByYXN0JwpwMzM4ClMnMC4xJwpwMzM5CnNTJ19fb3B0X196YXVuX2NpcmMnCnAzNDAKUycxNicKcDM0MQpzUydfX29wdF9femF1bl9sbScKcDM0MgpTJ1ZpYScKcDM0MwpzUydfX29wdF9fc3Rsc2hpZnQnCnAzNDQKUycwIDAgMCcKcDM0NQpzUydkeCcKcDM0NgpGMC4wMDEKc1MndGltaW5nJwpwMzQ3ClMnb2ZmJwpwMzQ4CnNTJ19fb3B0X196YXVuX2xzJwpwMzQ5ClMnVmlhJwpwMzUwCnNTJ19fb3B0X196YXVuX2xwJwpwMzUxClMnUGFkJwpwMzUyCnNTJ19fb3B0X19keGZtZXJnZScKcDM1MwpJMQpzUydfX29wdF9fZDNwcycKcDM1NApTJzEwJwpwMzU1CnNTJ3RoX3RtYXgnCnAzNTYKRjUwMDAKc1MnX19vcHRfX2QzZF9ncmlkX3dpZHRoJwpwMzU3ClMnMScKc1MneG1heCcKcDM1OApTJ3BtbCA2JwpwMzU5CnNTJ19fb3B0X19leHBfZ2JyX2ZtdCcKcDM2MApTJzM0JwpwMzYxCnNTJ19fb3B0X19hcnJvd190ZXh0JwpwMzYyClMnbm9ybWFsJwpwMzYzCnNTJ19fb3B0X19leHBfcHNsX3NoaWZ0JwpwMzY0CkkxMDAwMApzUydfX29wdF9fM2RfaGFuZGxlX2xpbWl0JwpwMzY1ClMnMTAwMCcKcDM2NgpzUydfX29wdF9faGRzbmFwJwpwMzY3ClMnb2ZmJwpwMzY4CnNTJ2d1aWJhdGNoJwpwMzY5ClMnMCcKc1MnbnNvdXJjZScKcDM3MApTJ2RlZmF1bHQnCnAzNzEKc1MnY2xlYW51cF90Y2wnCnAzNzIKUycwJwpzUydfX2F1dG9kaXNjX19kbWF4JwpwMzczCmcxOTMKc1MnX19vcHRfX2xheWlnbicKcDM3NApTJ29mZicKcDM3NQpzUydfX29wdF9fcnNpbXBsJwpwMzc2ClMnb2ZmJwpwMzc3CnNTJ19fb3B0X19kM2Rfc3dpdGNoX3BsYW5lX21pZHMnCnAzNzgKUydvbicKcDM3OQpzUydfX29wdF9fZDNsZ2EnCnAzODAKUycwLjInCnAzODEKc1MnZXJlZicKcDM4MgpTJ09GRicKcDM4MwpzUydfX29wdF9fZHJzdWJzJwpwMzg0ClMnb24nCnAzODUKc1MnbnVtYmVyX2czZCcKcDM4NgpTJzEnCnNTJ2dhYl9mcmVxJwpwMzg3ClMnOTAwZTYnCnAzODgKc1MnZ2x2aWV3JwpwMzg5CigoRjguNQpGNQpGMApGOTkKdGNmaXhfbnVtX3BpY2tsZQphcnJheV9jb25zdHJ1Y3RvcgpwMzkwCigoSTMKdFMnZCcKUydceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwJEAnCkkwMQp0UnAzOTEKZzM5MAooKEkzCnRTJ2QnClMnXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwJwpJMDEKdFJwMzkyCmczOTAKKChJMwp0UydkJwpTJ1x4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHhmMD9ceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMCcKSTAxCnRScDM5MwpnMzkwCigoSTQKSTQKdFMnZCcKUyJceDAwXHgwMFx4MDBceGEwfFx4OGZceGQ5XHhiZlx4MDBceDAwXHgwMCBceGVhfFx4ZWE/XHgwMFx4MDBceDAwQCo5XHhkOVx4YmZceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4YTBceDg2aVx4ZTg/XHgwMFx4MDBceDAwXHgwMCc7XHhlMT9ceDAwXHgwMFx4MDBceGEwIFx4ZTdceGQ2P1x4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwQFx4MTdFXHhlMD9ceDAwXHgwMFx4MDBceGMwXHhkNjBceGM0XHhiZlx4MDBceDAwXHgwMCBceGM2XHgxNlx4ZWJceGJmXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBAXHhjZFx4YjBceGQ3XHhiZlx4MDBceDAwXHgwMEA9TVx4YWM/XHgwMFx4MDBceDAwXHhhMHR1XHhjOT9ceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceGYwPyIKSTAxCnRScDM5NAooRjAuMDE5ODkyMjc2MjMyMjMwNjEKKGxwMzk1CkYwCmFGMC44NjYwMjU0MDM3ODQ0Mzg3MQphRjAuNDk5OTk5OTk5OTk5OTk5ODkKYUkwCmFGMC43MDcxMDY3ODExODY1NDc1NwphRjAuMzUzNTUzMzkwNTkzMjczNjgKYUYtMC42MTIzNzI0MzU2OTU3OTQ0NwphSTAKYUYtMC43MDcxMDY3ODExODY1NDc0NgphRjAuMzUzNTUzMzkwNTkzMjczNzMKYUYtMC42MTIzNzI0MzU2OTU3OTQ1OAphSTAKYUkwCmFJMAphSTAKYUkxCmFGOC41CkY1CkYwCnR0cDM5NgpzUydfX2F1dG9kaXNjX19ub2JqMycKcDM5NwpJMQpzUydfX29wdF9fYXJyb3dfYm94JwpwMzk4ClMnZ3JleTI1JwpwMzk5CnNTJ3RoX2FjY3UnCnA0MDAKRjkuOTk5OTk5OTk5OTk5OTk5MWUtMDYKc1Mnb3B0aW1pc2VyXzFfaXNmJwpwNDAxCkkyCnNTJ19fb3B0X19nZHN2aWFzaXplJwpwNDAyClMnMCcKc1MnX19vcHRfX2Rpc2Nfa29vcicKcDQwMwpTJ29mZicKcDQwNApzUydfX2F1dG9kaXNjX19kaXN4X29wdCcKcDQwNQpTJ29mZicKcDQwNgpzUydfX29wdF9femF1bl9hdHRyJwpwNDA3ClMnb24nCnA0MDgKc1MnX19vcHRfX3BhbmdsZScKcDQwOQpTJzkwJwpwNDEwCnNTJ19fb3B0X196YXVuX2l0ZXInCnA0MTEKUycxMDAwJwpwNDEyCnNTJ01FTVNBVkUnCnA0MTMKUycxJwpzUyd4bWF4X2FzJwpwNDE0ClMnYXV0b21hdGljJwpwNDE1CnNTJ19fb3B0X19oMmRfY3VydmVzJwpwNDE2ClMnMjAwJwpwNDE3CnNTJ19fb3B0X190aWNrc2l6ZScKcDQxOApTJzMwJwpwNDE5CnNTJ19fb3B0X19tZGlzdCcKcDQyMApTJzQnCnNTJ19fb3B0X19nZHN2aWFkaXN0JwpwNDIxClMnMTAwMCcKcDQyMgpzUydfX29wdF9fY3Vyc29yX3NoYXBlJwpwNDIzClMnYmlnJwpwNDI0CnNTJ3N0cmF0ZWd5JwpwNDI1ClMnYXV0bycKcDQyNgpzUydfX29wdF9femF1bl9kaXN0JwpwNDI3ClMnNTAwJwpwNDI4CnNTJ19fb3B0X19jYWRjb25fc2xpdmVyZmFjZXMnCnA0MjkKUydPZmYnCnA0MzAKc1MnX19vcHRfX2QzZF9jdXJ2X21heF9hbmdsZScKcDQzMQpJOTAKc1MnX19vcHRfX3N1cmZoYW5kJwpwNDMyCkkxMDAwMApzUydmc19wb3J0X21vZGUnCnA0MzMKUydzZXAnCnA0MzQKc1MnX19hdXRvZGlzY19fZGlzeV9vcHQnCnA0MzUKUydvZmYnCnA0MzYKc1MncnNoY21kbmV3JwpwNDM3ClMncmVtb3RlJwpwNDM4CnNTJ2ZzX2FjX2V4Y2l0ZScKcDQzOQpTJzEnCnNTJ19fb3B0X19zdXJmZGlzcCcKcDQ0MApTJ2FsbCcKcDQ0MQpzUydtdWx0aScKcDQ0MgpTJzQnCnNTJ19fb3B0X19kM21kaScKcDQ0MwpTJzEwMCcKcDQ0NApzUydfX29wdF9fY2FkY29uX3N1cmZhY2V0b2wnCnA0NDUKUydBdXRvJwpwNDQ2CnNTJ3NpbXR5cGVzJwpwNDQ3ClMnRU0nCnA0NDgKc1MnX19vcHRfX2QzZF9ncmlkX2NvbG9yJwpwNDQ5ClMnIzhjNTQwMCcKcDQ1MApzUydvYmF0Y2gnCnA0NTEKUycxJwpzUydfX29wdF9fZDNkX2N1cnZfbWluX2FuZ2xlJwpwNDUyCkkxCnNTJ1RZUEUnCnA0NTMKUydVU1InCnA0NTQKc1MncnVubGVuZ3RoJwpwNDU1ClMnMTAwMCcKcDQ1NgpzUydfX29wdF9fZXhjdW5pdCcKcDQ1NwpTJ21tJwpwNDU4CnNTJ19fb3B0X19kM2RfZ3JpZF90cmFuc3BhcmVuY3lfYicKcDQ1OQpTJzg1ICUnCnA0NjAKc1MnX19hdXRvZGlzY19fZGlzeicKcDQ2MQpTJ2F1dG8nCnA0NjIKc1MnX19hdXRvZGlzY19fZGlzeCcKcDQ2MwpTJ2F1dG8nCnA0NjQKc1MnX19hdXRvZGlzY19fZGlzeScKcDQ2NQpTJ2F1dG8nCnA0NjYKc1Mndm0nCnA0NjcKUydvZmYnCnA0NjgKc1MnVEhJQ0tORVNTJwpwNDY5ClMnMCcKc1MnRl9TVEFSVCcKcDQ3MApGMTAwMDAwMDAwMApzUydjbGVhbnVwX2h3JwpwNDcxClMnMScKc1MnX19vcHRfX2QzbW9kZScKcDQ3MgpTJ2ZpbGwnCnA0NzMKc1Mnc2hpZnRfMScKcDQ3NApGMApzUyd0ZW1wbGF0ZV9vcHMnCnA0NzUKUydOb25lJwpwNDc2CnNTJ19fb3B0X19kM2wxcycKcDQ3NwpTJzAuMCcKcDQ3OApzUydfX29wdF9fZDNkX3BvcnRhdGZpcnN0Y2xpY2snCnA0NzkKUydvZmYnCnA0ODAKc1MnX19vcHRfX2R4ZnRvbCcKcDQ4MQpTJzFlLTMnCnA0ODIKc1MnX19vcHRfX2RycmVwJwpwNDgzCkkxCnNTJ19fb3B0X196YXVuX2xvZycKcDQ4NApTJ29mZicKcDQ4NQpzUydtYW5jaGsnCnA0ODYKUydhdXRvJwpwNDg3CnNTJ19fb3B0X19kb3NuYXAnCnA0ODgKUydvbicKcDQ4OQpzUydfX29wdF9fZDNkX2dyaWRfY29sb3JfYicKcDQ5MApTJyM0NDQ0NDQnCnA0OTEKc1MnRl9NSUQnCnA0OTIKRjI0MDAwMDAwMDAKc1MnX19vcHRfX2FjY3UnCnA0OTMKRjAuMDEKc1Mnb2xvZ2xldicKcDQ5NApTJzEwMCcKcDQ5NQpzUydfX29wdF9fdG9fcG9seV9tZXJnZScKcDQ5NgpTJ29uJwpwNDk3CnNTJ19fb3B0X19kcmRzY2FsZScKcDQ5OApTJzE2MC4wLzU4LjAnCnA0OTkKc1MnX19hdXRvZGlzY19fa2VlcCcKcDUwMApTJzAnCnNTJ19fb3B0X19kM2Rfb3BlbmxpYmVkaXQnCnA1MDEKUydvZmYnCnA1MDIKc1MnY2xlYW51cF9hbGwnCnA1MDMKUycwJwpzUydvcHRpbWlzZXJfMScKcDUwNApTJ1N3ZWVwIGluZGVwZW5kZW50JwpwNTA1CnNTJ19fb3B0X19kM2Rfc2ltcGxlX2Zhc3QnCnA1MDYKUydvbicKcDUwNwpzUydfX29wdF9fdG9fcG9seV90b2xlcmFuY2UnCnA1MDgKUycwLjAwMScKcDUwOQpzUyduc3RlcHMnCnA1MTAKSTIwMDAwMApzUydfX2F1dG9kaXNjX196bWF4JwpwNTExCkYxOS4xODQ5OTk5OTk5OTk5OTkKc1Mnb3NfcHJpb3JpdHknCnA1MTIKUydoaWdoJwpwNTEzCnNTJ19fb3B0X19zdHJpcF93aWR0aCcKcDUxNApTJzInCnNTJ19fb3B0X19kM2wxcCcKcDUxNQpTJ29mZicKcDUxNgpzUydhdXRvZGlzYycKcDUxNwpTJ3UnCnNTJ19fb3B0X19kcnNwMCcKcDUxOApJMjAwCnNTJ19fb3B0X19kcnNwMScKcDUxOQpJMQpzUydfX29wdF9fZHJzcDInCnA1MjAKSTEKc1MnX19vcHRfX2QzbDFhJwpwNTIxClMnMS4wJwpwNTIyCnNTJ19fb3B0X19kM2wxZCcKcDUyMwpTJzAuMicKcDUyNApzUydfX29wdF9fZDNkX2N1cnZfYW5nbGVfc25hcCcKcDUyNQpJNQpzUydfX2F1dG9kaXNjX195bWluJwpwNTI2CkYtNTMuNzUKc1MnX19vcHRfX2QzZF9ncmlkX3dpZHRoX2InCnA1MjcKUycxJwpzUydfX29wdF9fdG9fcG9seV9wbGFuZV9BJwpwNTI4ClMnbWlkJwpwNTI5CnNTJ19fb3B0X191aHRzaGlmdCcKcDUzMApTJzAgMCcKcDUzMQpzUydfX29wdF9fb3NuYXAnCnA1MzIKUydvYmplY3RzK3RyYWNlcycKcDUzMwpzUydfX29wdF9fYmFja3VwJwpwNTM0ClMnb24nCnA1MzUKc1MnbnVtYmVyX2cyZCcKcDUzNgpTJzMnCnNTJ19fb3B0X19nZXJidG9sJwpwNTM3CkY5Ljk5OTk5OTk5OTk5OTk5OTVlLTA3CnNTJ19fb3B0X196YXVuX29kaXN0JwpwNTM4ClMnODAwJwpwNTM5CnNTJ3ZtYWxnbycKcDU0MApTJ2Jsb2NrJwpwNTQxCnNTJ19fb3B0X19zb2xpZGFjY3UnCnA1NDIKUycxZS01JwpwNTQzCnNTJ19fb3B0X19keGZzY2FsZScKcDU0NApJMQpzUydfX29wdF9fZHJzdGFydCcKcDU0NQpTJzAgMCcKcDU0NgpzUydfX29wdF9fZDNsdycKcDU0NwpTJzMnCnNTJ2xyb3B0JwpwNTQ4ClMnMScKc1MnZ3VpX3R1bmVfYWN0aW9uJwpwNTQ5ClMnMicKc1MnZWN1dCcKcDU1MApTJy0xJwpwNTUxCnNTJ19fb3B0X19kM2NvJwpwNTUyClMnb24nCnA1NTMKc1MnX19vcHRfX3N0bHNpbXBhbmcnCnA1NTQKSTAKc1MnX19vcHRfX2V4Y2xpbWl0JwpwNTU1CkkxMgpzUydfX29wdF9fc3RsZXhzZXAnCnA1NTYKUydvZmYnCnA1NTcKc1MndGhfYmxvb2RfY2FwJwpwNTU4ClMnMzgyNCcKcDU1OQpzUydfX29wdF9fZXhwX2dkc2lpX2ZhY3QnCnA1NjAKUycxJwpzUydfX29wdF9fZXhjc2NhbGUnCnA1NjEKUycxLjAnCnA1NjIKc1MnY2xlYW51cF9pbnRlcicKcDU2MwpTJzEnCnNTJ2NsZWFudXBfcmVzJwpwNTY0ClMnMScKc1MnZm9mZnNldCcKcDU2NQpTJzAnCnNTJ3BhcnRvbCcKcDU2NgpTJzVlLTYnCnA1NjcKc1MnX19vcHRfX3JzdWInCnA1NjgKUyczNicKcDU2OQpzUyd5bWF4JwpwNTcwClMncG1sIDYnCnA1NzEKc1MnX19hdXRvZGlzY19fd2ZlbmNlJwpwNTcyClMnMjUnCnA1NzMKc1MnX19vcHRfXzNkX3dpcmVmcmFtZV9hbmdsZScKcDU3NApTJzQ1JwpwNTc1CnNTJ05GJwpwNTc2CkkxMDAwCnNTJ251bWJlcl9hbicKcDU3NwpTJzInCnNTJ19fb3B0X19jYWRjb25fdGlnaHRnYXBzJwpwNTc4ClMnT2ZmJwpwNTc5CnNTJ19fb3B0X19jYWRjb25fZ3JvdXBjb3VudHdhcm5pbmcnCnA1ODAKUycxMDAnCnA1ODEKc1MnbnNvdXJjZV8xJwpwNTgyClMnZGVmYXVsdCcKcDU4MwpzUydfX29wdF9fZ3ltc2hpZnQnCnA1ODQKUycwIDAgMCcKcDU4NQpzUydfX2F1dG9kaXNjX193YXJubGltaXQnCnA1ODYKUycxZS0zJwpwNTg3CnNTJ19fb3B0X19keGZjdG9sJwpwNTg4ClMnMC4wMScKcDU4OQpzUydfX29wdF9fa29vcl9mb3JtYXQnCnA1OTAKUyclKzEwLjJmJwpwNTkxCnNTJ19fb3B0X19leGN0b2wnCnA1OTIKSTEwCnNTJ19fb3B0X19keGZhcmMnCnA1OTMKSTUKc1MnZG9fdG91Y2gnCnA1OTQKUycwJwpzUydfX29wdF9faHBnbHBlbicKcDU5NQpTJzMwMCcKcDU5NgpzUydfX2F1dG9kaXNjX19zbG9wZScKcDU5NwpTJzAnCnNTJ19fYXV0b2Rpc2NfX25vYmo0JwpwNTk4CkkzCnNTJ3RoX2Jjb25kJwpwNTk5ClMnTm9uZScKcDYwMApzUydfX2F1dG9kaXNjX19ub2JqMScKcDYwMQpJMQpzUydfX2F1dG9kaXNjX19ub2JqMicKcDYwMgpJMQpzUydfX29wdF9fY2FkY29uX3dpcmVyYWQnCnA2MDMKUydPZmYnCnA2MDQKc1Mnb3B0aW1pc2VyXzFfc2VxJwpwNjA1ClMnMCcKc1MnX19vcHRfX3RvX3BvbHlfc2ltcGxpZnknCnA2MDYKUydvbicKcDYwNwpzUydlcHNlZmZfMScKcDYwOApTJ2RlZmF1bHQnCnA2MDkKc1MnX19vcHRfX2Ryc2NhbGUnCnA2MTAKUycxLjAnCnA2MTEKc1MnX19vcHRfX3doZWVsZmFjdCcKcDYxMgpTJzEuMicKcDYxMwpzUydfX29wdF9fZXhwX3N0bF9mYWN0JwpwNjE0ClMnMScKc1MndWlvbmx5JwpwNjE1ClMnMCcKc1MnX19vcHRfX2QzZF9zd2l0Y2hfb2JqZWN0X3NpZGVzJwpwNjE2ClMnb24nCnA2MTcKc1MneW1heF9hcycKcDYxOApTJ2F1dG9tYXRpYycKcDYxOQpzUydfX29wdF9fZDNkX3N3aXRjaF9zcGhlcmljYWxfY3VydmVzJwpwNjIwClMnb2ZmJwpwNjIxCnNTJ19fYXV0b2Rpc2NfX3JvdWdobmVzcycKcDYyMgpTJzAnCnNTJ19fYXV0b2Rpc2NfX3htaW4nCnA2MjMKRi0xOC43NQpzUydfX29wdF9fbWRpZ2l0cycKcDYyNApTJzAnCnNTJ0ZfRU5EJwpwNjI1CkY0MDAwMDAwMDAwCnNTJ2xwaScKcDYyNgpGNTAKc1MnX19vcHRfX2RybWF4aScKcDYyNwpJMjAwCnNTJ01FVEFMJwpwNjI4ClMnTEwnCnA2MjkKc1MndGhfYmxvb2RfZGVucycKcDYzMApTJzEwNjAnCnA2MzEKc1MnX19vcHRfX3N1cmZ3YXJuJwpwNjMyClMnb24nCnA2MzMKc1MnZXN3aXRjaCcKcDYzNApTJ09OJwpwNjM1CnNTJ19fb3B0X19tZnNpemUnCnA2MzYKUycxMicKcDYzNwpzUydfX29wdF9fYXV0b2FyYycKcDYzOApTJ29mZicKcDYzOQpzUydfX2F1dG9kaXNjX19hc3BlY3QnCnA2NDAKUycyMCcKcDY0MQpzUydfX29wdF9fdmRzbmFwJwpwNjQyClMnID0gaG9yaXpvbnRhbCcKcDY0MwpzUydfX29wdF9fZHJmcmVxJwpwNjQ0ClMnMS41JwpwNjQ1CnNTJ19fb3B0X190aGljaycKcDY0NgpTJzAuMDAxJwpwNjQ3CnMu'
+
+ORIGINS 0
+list [mat.mat(3,1, 0.0 ,0.0 ,0.0)]
+END ORIGINS
+
+DISC 0
+   lines [-1.875000000000000e+01,-1.319444444444444e+01,-7.638888888888888e+00,-2.083333333333332e+00,0.000000000000000e+00,8.333333331759342e-01,1.860676742234205e+00,2.069651179411039e+00,2.190538923124146e+00,2.297056277384268e+00,2.407524637626726e+00,2.684895247624549e+00,3.884615383614894e+00,5.423076922076924e+00,6.961538460538463e+00,7.974937004002093e+00,1.112499999918750e+01,1.374999999937500e+01,1.584997899868497e+01,1.616666692603136e+01,1.683333322103794e+01,1.734998199623960e+01,1.779994601171772e+01,1.899999999900000e+01,2.108333333244445e+01,2.663888888829630e+01,3.219444444414815e+01,3.775000000000000e+01]
+  fixed []
+  auto  [-1.875000000000000e+01,0.000000000000000e+00,3.775000000000000e+01,1.584997899868497e+01,7.974937004002093e+00,1.734998199623960e+01,2.407524637626726e+00,2.069651179411039e+00,1.899999999900000e+01]
+END DISC
+
+DISC 1
+   lines [-5.375000000000000e+01,-4.437499999975000e+01,-3.499999999950001e+01,-3.096638655417948e+01,-2.693277310885895e+01,-2.289915966353842e+01,-1.886554621821789e+01,-1.483193277289736e+01,-1.079831932757683e+01,-6.764705882256298e+00,-2.731092436935768e+00,-7.142857142755048e-01,0.000000000000000e+00,3.333333330000001e-01,6.666666660000001e-01,9.999999990000001e-01,1.164648040454161e+00,1.304834507771232e+00,1.427296382002976e+00,1.645363622545939e+00,2.609243694809292e+00,4.500000000000001e+00,6.390756305190561e+00,7.354624786369180e+00,7.572676704219519e+00,7.693283231845517e+00,7.808769612823921e+00,7.930330850887321e+00,8.139296503594821e+00,9.166666665824062e+00,9.999999999000002e+00,1.208333333244445e+01,1.763888888829630e+01,2.319444444414815e+01,2.875000000000000e+01]
+  fixed [-5.375000000000000e+01]
+  auto  [-5.375000000000000e+01,-3.499999999950001e+01,0.000000000000000e+00,1.427296382002976e+00,7.572676704219519e+00,2.875000000000000e+01,7.930330850887321e+00,9.999999990000001e-01,9.999999999000002e+00]
+END DISC
+
+DISC 2
+   lines [-2.035000000000000e+01,-1.390468750000000e+01,-7.459375000000001e+00,-3.162500000000001e+00,-1.600000000000000e+00,-1.066666666666667e+00,-5.333333333333334e-01,0.000000000000000e+00,1.475769230769231e+00,4.427307692307692e+00,1.180615384615384e+01,1.918500000000000e+01]
+  fixed [-2.035000000000000e+01,1.918500000000000e+01]
+  auto  [0.000000000000000e+00,-2.035000000000000e+01,1.918500000000000e+01,-1.600000000000000e+00]
+END DISC
+
+LAYER 1
+ texts     [stack_text(text='dielectric name FR4 epsr 4.9 sigma 0.0 prio 100 tand 2.50E-02 density 0 th_conductivity 0.256 th_density 0 th_capacity 0 th_sigma 0 th_sink 0',st=STACK), stack_text(text='name PCB',st=STACK)]
+ color     stack_color('#08C')
+ fill      stack_color('#08C')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  0
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 2
+ texts     [stack_text(text='conductor name Copper sigma 5.800e+07 sides auto rough 0 prio 200 automodel auto th_conductivity 401.0 th_density 0 th_capacity 0 th_sigma 0 th_sink 0',st=STACK), stack_text(text='name Copper',st=STACK)]
+ color     stack_color('#ff5900')
+ fill      stack_color('#ff5900')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  0
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 3
+ texts     [stack_text(text='name Invisible',st=STACK), stack_text(text='dielectric name FR4 epsr 4.9 sigma 0.0 prio 100 tand 2.50E-02 density 0 th_conductivity 0.256 th_density 0 th_capacity 0 th_sigma 0 th_sink 0',st=STACK)]
+ color     stack_color('#ff5900')
+ fill      stack_color('#ff5900')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  0
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 4
+ texts     [stack_text(text='name Invisible|Copper',st=STACK), stack_text(text='dielectric name FR4 epsr 4.9 sigma 0.0 prio 100 tand 2.50E-02 density 0 th_conductivity 0.256 th_density 0 th_capacity 0 th_sigma 0 th_sink 0',st=STACK)]
+ color     stack_color('#ff5900')
+ fill      stack_color('#ff5900')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  0
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 5
+ texts     [stack_text(text='name @@initial',st=STACK), stack_text(text='conductor',st=STACK)]
+ color     stack_color('black')
+ fill      stack_color('black')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       0
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1000.0])
+ texture   '0'
+END LAYER
+
+LAYER 6
+ texts     [stack_text(text='name @@loads',st=STACK)]
+ color     stack_color('green')
+ fill      stack_color('green')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 7
+ texts     [stack_text(text='name @@excite',st=STACK)]
+ color     stack_color('green')
+ fill      stack_color('green')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 8
+ texts     [stack_text(text='name @@air',st=STACK)]
+ color     stack_color('red')
+ fill      stack_color('red')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 9
+ texts     [stack_text(text='name @@currents',st=STACK)]
+ color     stack_color('green')
+ fill      stack_color('green')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 10
+ texts     [stack_text(text='name @@voltages',st=STACK)]
+ color     stack_color('maroon')
+ fill      stack_color('maroon')
+ pattern   'No Fill'
+ opaque    0.0
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+LAYER 11
+ texts     [stack_text(text="name @@Monitor 1 'EM Farfield'",st=STACK)]
+ color     stack_color('orange2')
+ fill      stack_color('orange2')
+ pattern   'No Fill'
+ opaque    0.3
+ width     1
+ acadcolor 61
+ vis       1
+ autodisc  1
+ lock      0
+ arrow     stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+ texture   '0'
+END LAYER
+
+CURRENT_LAYER 2
+
+CURRENT_SPACE 1
+
+BOX 1
+ nbin	'eAGdULsOgkAQ7Oc7TO4qg+ADOi1pLKQluRwLmFMel+NI4O9dKmPExmImu5Ps7M4S9XZWrrqDifpu8G4k3zvYHSS12kMvZEOQUsVoGm86pdAXj4pYjnD1N7uHLO0BmXC6NOMgYI9IAwyZqAWoNpPqxlZZQ8+mgnZOz+pj1QlSphHSED4TpWCjfAqCfxCd16fi4JJP9NNyw2OJZiTfqFkr6nXb95GCA+/Av4iX2C234VJ0XEQYiu0LaTBu+Q=='
+ texts	[stack_text(text='name Substrate',st=STACK)]
+ layer_	1
+ points	[0.0,19.0,-35.0,10.0,-1.6,0.0]
+END BOX
+
+LIBRARY 1
+ element	'EMFarField'
+ texts	[stack_text(text='nf2ff automatic 2400000000.0',st=STACK), stack_text(text='ffanim file=automatic loop=off type=quads fmode=fill height=autosize border=off legend=10 scale=log_30_dB rotate=4e6f6e65 display=var_radius limit=off legsty=main_window_8pt max=auto',st=STACK), stack_text(text="operation \nOPERATION(cls=OPERATION_2D_FF,type='FARFIELD',dst='',src=['automatic'],par=['Directivity', ['enable', 'eabs', 'ephi', 'etheta', 'pcheck', 'xmin', 'ymin', 'zmin', 'xmax', 'ymax', 'zmax', 'box_ref'], ['2.4e+09'], '2D Fixed Phi', '0.0', '1.0', 'None', 'None', '-180.0', '180.0', 'Single', '@AUTO@', '1', ['2.4e+09'], 'None'],cat='AUTOMATIC',extra=None,ext_id='ff1_0')",st=STACK), stack_text(text="operation \nOPERATION(cls=OPERATION_2D_FF,type='FARFIELD',dst='',src=['automatic'],par=['Directivity', ['enable', 'eabs', 'ephi', 'etheta', 'pcheck', 'xmin', 'ymin', 'zmin', 'xmax', 'ymax', 'zmax', 'box_ref'], ['2.4e+09'], '2D Fixed Phi', '90.0', '1.0', 'None', 'None', '-180.0', '180.0', 'Single', '@AUTO@', '1', ['2.4e+09'], 'None'],cat='AUTOMATIC',extra=None,ext_id='ff1_1')",st=STACK), stack_text(text="operation \nOPERATION(cls=OPERATION_2D_FF,type='FARFIELD',dst='',src=['automatic'],par=['Directivity', ['enable', 'eabs', 'ephi', 'etheta', 'pcheck', 'xmin', 'ymin', 'zmin', 'xmax', 'ymax', 'zmax', 'box_ref'], ['2.4e+09'], '3D Sweep Phi and Theta', '0.0000', '2.0_2.0', 'None', 'None', 'Theta=0.0 Phi=-180.0', 'Theta=180.0 Phi=180.0', 'Single', '@AUTO@', '1', ['2.4e+09'], 'None'],cat='AUTOMATIC',extra=None,ext_id='ff1_2')",st=STACK), stack_text(text="operation \nOPERATION(cls=OPERATION_2D_FF,type='FARFIELD',dst='',src=['automatic'],par=['Directivity', ['eabs', 'ephi', 'etheta', 'pcheck', 'xmin', 'ymin', 'zmin', 'xmax', 'ymax', 'zmax', 'box_ref'], ['2.4e+09'], '2D Fixed Phi', '0.0', '1.0', 'None', 'None', '-180.0', '180.0', 'Single', '@AUTO@', '1', ['2.4e+09'], 'None'],cat='AUTOMATIC',extra=None,ext_id='ff1_3')",st=STACK), stack_text(text="operation \nOPERATION(cls=OPERATION_2D_FF,type='FARFIELD',dst='',src=['automatic'],par=['Directivity', ['eabs', 'ephi', 'etheta', 'pcheck', 'xmin', 'ymin', 'zmin', 'xmax', 'ymax', 'zmax', 'box_ref'], ['2.4e+09'], 'Fixed Phi', '0.0000', '1', 'None', 'None', 'Default', 'Default', 'Single', '@AUTO@', '1', ['2.4e+09'], 'None'],cat='AUTOMATIC',extra=None,ext_id='ff1_4')",st=STACK), stack_text(text="operation \nOPERATION(cls=OPERATION_2D_FF,type='FARFIELD',dst='',src=['automatic'],par=['Directivity', ['eabs', 'ephi', 'etheta', 'pcheck', 'xmin', 'ymin', 'zmin', 'xmax', 'ymax', 'zmax', 'box_ref'], ['2.4e+09'], 'Fixed Phi', '0.0000', '1', 'None', 'None', 'Default', 'Default', 'Single', '@AUTO@', '1', ['2.4e+09'], 'None'],cat='AUTOMATIC',extra=None,ext_id='ff1_5')",st=STACK)]
+ para	{}
+ layer_	11
+ objects	(8.5, 5.0, 0.0)
+ h_rads	None
+ arrow	stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 1.0])
+END LIBRARY
+
+GANLIB 1
+ entry	'lport'
+ texts	[stack_text(text='name Source',st=STACK)]
+ para	{'DL': 0, 'p1': 1, 'WC': 1, 'p1e': 'On', 'ED': 0, 'WE': 1, 'lport': 0, 'WV': 1, 'R': 50, 'FE': 'default', 'w': 2.0, 'Rcopy': 'Off', 'd0': '0.2*w', 'd1': '0.2'}
+ layer_	1
+ objects	(16.5, 0.0, 0.0, 16.5, 0.9999999999999998, 0.0)
+ nbin	'eAFrYEpOy6yIzyvNjS/ITM7OSeVKLCpKrIxPzs8rLikqTS7JL+IqZNTwZvJmbgtlTAk1YACBBgMHMI1OAMX//QeB9/YwqY6SoEImP28md5iAu/3C161yOwLftLcXMusBADbEIwk='
+ arrow	stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 0.035])
+ rad  	100
+ show 	0
+END GANLIB
+
+GANLIB 2
+ entry	'lport'
+ texts	[stack_text(text='name Source',st=STACK)]
+ para	{'DL': 0, 'p1': 1, 'WC': 1, 'p1e': 'On', 'ED': 0, 'WE': 1, 'lport': 0, 'WV': 1, 'R': 50, 'FE': 'default', 'w': 2.0, 'Rcopy': 'Off', 'd0': '0.2*w', 'd1': '0.2'}
+ layer_	2
+ objects	(16.5, 0.0, 0.0, 16.5, 0.9999999999999999, 0.0)
+ nbin	'eAFrYEpOy6yIzyvNjS/ITM7OSeVKLCpKrIxPzs8rLikqTS7JL+IqZNTwZvJmbgtlTAk1YACBBgMHMI1OAMX/g8F7e5hUR0lQIZOfN5M7TMDdfuHrVrkdgW/a2wuZ9QA28yMK'
+ arrow	stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 0.035])
+ rad  	100
+ show 	0
+END GANLIB
+
+POLY 2
+ texts	[stack_text(text='name Groundplane',st=STACK)]
+ layer_	2
+ points	(0.0, 0.0, 0.0, 19.0, 0.0, 0.0, 19.0, -35.0, 0.0, 0.0, -35.0, 0.0)
+ nbin	'eAFrYEpOy6yIzyvNjS/ITM7OSeVKLCpKrIxPzs8rLikqTS7JL+IqZNTwZvFmbgtlTAlNYMALjB2wS0PFGxwPYJVHEu8oCSpk8vNmcocpdLdf+LpVbkfgm/b2QmY9AL7lHhw='
+ arrow	stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 0.035])
+ rad	100.0
+ END POLY
+
+POLY 51
+ texts	[]
+ layer_	2
+ points	(17.5, 1.5000000000000004, 0.0, 2.5000000000000004, 1.5000000000000004, 0.0, 2.5000000000000004, 7.499999999999999, 0.0, 8.5, 7.499999999999999, 0.0, 8.5, 8.0, 0.0, 2.0, 8.0, 0.0, 2.0, 1.0, 0.0, 17.5, 1.0, 0.0)
+ nbin	'eAFrYEpOy6yIzyvNjS/ITM7OSeVKLCpKrIxPzs8rLikqTS7JL+IqZNTw5vBmbgtlTAk9wAACDYYOTGDGD3swBSQYwQwWnOL/wUDWAaYeQis64BKHyCugqWeA8nGJf4C7B6wf6E4wzYAQ7ygJKmTy82Zyh0gwMLjbL3zdKrcj8E17eyGzHgC/5TCE'
+ arrow	stack_arrow([0.0, 0.0, 0.0, 0.0, 0.0, 0.035])
+ rad	100.0
+ END POLY

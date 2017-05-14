@@ -1,0 +1,77 @@
+\subsection{Berechnungen}
+
+\subsubsection{Wahl der Betriebsfrequenz}
+
+Um eine möglichst kompakte Antenne zu erhalten, ist eine hohe
+Betriebsfrequenz zu wählen, denn die geometrischen Abmessungen
+der Monopolantenne sind umgekehrt proportional zur Frequenz
+respektive proportional zur Wellenlänge.
+
+\begin{equation}
+	l \sim \lambda = \frac{c}{f}
+\end{equation}
+
+Um also eine Monopolantenne zu erhalten, deren Stablänge $l_s$
+und Kantenlänge $l_k$ möglichst klein sind, ist eine entsprechend
+hohe Frequenz $f$ zu wählen. Die Betriebsfrequenz wird gewählt mit
+80\% des erlaubten Spektrums.
+
+\begin{equation}
+	f
+	= 0.8 \cdot f_{max}
+	= 0.8 \cdot \SI{5}{\giga\hertz}
+	= \SI{4}{\giga\hertz} 
+\end{equation}
+
+\subsubsection{Monopolantenne auf quadratischer Groundplane}
+
+Für die Dimensionierung der Antenne wird die Wellenlänge benötigt,
+welche sich mit der gewählten Frequenz $f$ und der Lichtgeschwindigkeit
+$c$ ermitteln lässt.
+
+\begin{equation}
+	\lambda
+	= \frac{c}{f}
+	\approx \frac{\SI{3d8}{\meter\per\second}}{\SI{4}{\giga\hertz}}
+	= \SI{75d-3}{\meter} 
+\end{equation}
+
+Aus der Aufgabenstellung geht hervor, dass die Groundplane mit einer
+Diagonale $l_d$ von $\frac{\lambda}{\sqrt{2}}$ zu erstellen ist
+\cite[S.1, 2a]{lab1}. Für eine quadratische Groundplane ergibt sich
+die Kantenlänge $l_k$ der Groundplane somit zu $\frac{\lambda}{2}$.
+
+\begin{equation}
+	l_d
+	= \sqrt{{l_k}^2 + {l_k}^2}
+	= \sqrt{2 \cdot ({l_k}^2)}
+	= \sqrt{2} \cdot l_k
+\end{equation}
+
+\begin{equation}
+	l_k
+	= \frac{l_d}{\sqrt{2}}
+	= \frac{\left(\frac{\lambda}{\sqrt{2}}\right)}{\sqrt{2}}
+	= \frac{\lambda}{\sqrt{2} \cdot \sqrt{2}}
+	= \frac{\lambda}{2}
+	= \frac{\SI{75d-3}{\meter}}{2}
+	= \SI{37.5d-3}{\meter}
+\end{equation}
+
+Die Stablänge $l_s$ der Antenne ist analog zur Groundplane mit der
+Frequenz $f$ respektive der Wellenlänge $\lambda$ zu ermitteln.
+
+\begin{equation}
+	l_s
+	= \frac{\lambda}{4}
+	= \frac{\SI{75d-3}{\meter}}{4}
+	= \SI{18.8d-3}{\meter}
+\end{equation}
+
+\begin{figure}[h!]
+	\centering
+	\def\svgwidth{0.5\textwidth}
+	\input{../fig/gph/monopol_a.pdf_tex}
+	\caption{Modellzeichnung der Monopolantenne mit quadratischer
+		Groundplane.}
+\end{figure}
