@@ -1,0 +1,41 @@
+\section{ToDo4}
+
+Berechnung der Drehfaktoren:
+
+\begin{align}
+	W_{N}^{k}       	  &= e^{-j\frac{2\pi k}{N}}\\
+	                	  &= cos(\frac{2\pi k}{N})-jsin(\frac{2\pi k}{N})\\
+	Re\{W_{N}^{k}\}   &= cos(\frac{2\pi k}{N})\\
+  	Im\{W_{N}^{k}\}   &= sin(\frac{2\pi k}{N})\\
+\end{align}
+
+\begin{lstlisting}
+// @ToDo 4:
+// Define coefficients for "calculate_goertzel_output_power_v1"
+// The values here correspond to real/imag part of twiddle factor W_N^k in Q15 format
+ #define b_RE_697_Hz  27980
+ #define b_RE_770_Hz  26956
+ #define b_RE_852_Hz  25701
+ #define b_RE_941_Hz  24219
+
+ #define b_RE_1209_Hz 19261
+ #define b_RE_1336_Hz 16525
+ #define b_RE_1477_Hz 13297
+ #define b_RE_1633_Hz 9537
+
+ #define b_IM_697_Hz  0
+ #define b_IM_770_Hz  0
+ #define b_IM_852_Hz  0
+ #define b_IM_941_Hz  0
+
+ #define b_IM_1209_Hz 0
+ #define b_IM_1336_Hz 0
+ #define b_IM_1477_Hz 0
+ #define b_IM_1633_Hz 0
+
+\end{lstlisting}
+
+\path{../App15_DTMF_Detect/Headers/goertzel.h}
+
+
+\newpage

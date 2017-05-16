@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: apacite.bst
+Illegal, another \bibstyle command---line 102 of file main.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: tex/bibliographie.bib
+Warning--I didn't find a database entry for "wr"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in laborversuch
+You've used 2 entries,
+            6951 wiz_defined-function locations,
+            1275 strings with 10845 characters,
+and the built_in function-call counts, 3576 in all, are:
+= -- 460
+> -- 21
+< -- 188
++ -- 174
+- -- 5
+* -- 237
+:= -- 727
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 50
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 54
+empty$ -- 128
+format.name$ -- 28
+if$ -- 673
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 0
+newline$ -- 45
+num.names$ -- 16
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 232
+stack$ -- 0
+substring$ -- 184
+swap$ -- 34
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 160
+warning$ -- 1
+while$ -- 10
+width$ -- 0
+write$ -- 48
+(There was 1 error message)

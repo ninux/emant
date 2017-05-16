@@ -1,0 +1,49 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Omlin%
+}{%
+Omlin%
+}{%
+{\protect \APACyear {{2016}}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+script}
+\APACinsertmetastar {%
+script}%
+\begin{APACrefauthors}%
+Omlin, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{{2016}{\protect \BCnt {1}}}.
+\newblock
+\APACrefbtitle {{Leistungselektronik und elektrische Antriebe - Kapitel 4
+  Selbstgeführte Wechselrichter}} {{Leistungselektronik und elektrische
+  Antriebe - Kapitel 4 Selbstgeführte Wechselrichter}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Omlin%
+}{%
+Omlin%
+}{%
+{\protect \APACyear {{2016}}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+laborversuch}
+\APACinsertmetastar {%
+laborversuch}%
+\begin{APACrefauthors}%
+Omlin, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2016}{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Versuchsanleitung - Selbstgeführter Stromrichter (WR
+  dreiphasig)}} {{Versuchsanleitung - Selbstgeführter Stromrichter (WR
+  dreiphasig)}}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
