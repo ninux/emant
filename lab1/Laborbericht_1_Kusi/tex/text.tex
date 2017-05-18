@@ -5,9 +5,9 @@
 \section{Zusammenfassung}
 
 Dieser Bericht behandelt das Entwickeln, Simulieren und Ausmessen einer Monopolantenne. Zweck der Aufgabenstellung war Erfahrungen in der Handhabung der verschiedenen Tools zu gewinnen. Dazu gehört die Simulationssoftware EMPIRE, das Kalibrieren und Messen mit dem Netzwerkanalyser und das Ausmessen mit dem Linear Scanner.\\
-Die Designfrequenz der Monopolantenne beträgt 2.75 GHz. Mittels der Simulationsoftware EMPIRE wurde das mechanische Design so verändert, dass die Parameter die gewünschten Anforderungen erfüllen. Insbesondere der Reflexionskoeffizient S11 sollte einen möglichst tiefen Wert erreichen bei der Designfrequenz.\\
-Nach der Produktion wurde die Antenne als erstes mit dem Netzwerkanalyzer ausgemessen. Die Antenne zeigte im Ansatz das gewünschte Verhalten. Die effektive Resoanzfrequenz lag leicht höher und der Reflexionskoeffizient S11 war nicht ganz so gut, wie simuliert.\\
-Anschliessend wurde noch eine Messung durchgeführt betreffend Abstrahlcharakteristik. Dabei zeigte die Antenne das erwartete Verhalten in der Form eines Apfels.
+Die Designfrequenz der Monopolantenne beträgt 2.75 GHz. Mittels der Simulationsoftware EMPIRE wurde das mechanische Design so verändert, dass die Parameter die gewünschten Anforderungen erfüllen. Insbesondere der Reflexionskoeffizient S11 sollte bei der Designfrequenz einen möglichst tiefen Wert erreichen.\\
+Nach der Produktion wurde die Antenne als erstes mit dem Netzwerkanalyzer ausgemessen. Die Antenne zeigte ansatzweise das gewünschte Verhalten. Die effektive Resonanzfrequenz lag leicht höher als die Designfrequenz Der Reflexionskoeffizient S11 war nicht ganz so ausgeprägt wie simuliert. Durch mechanische Bearbeitung (abschneiden) konnte die Resonanzfreqquenz der Designfrequenz angenährt werden.\\
+Zum Abschluss wurde noch die Abstrahlcharakteristik der Antenne ausgemessen. Dabei zeigte die Antenne das erwartete Verhalten in der Form eines Apfels.
 
 \newpage
 
@@ -16,17 +16,19 @@ Anschliessend wurde noch eine Messung durchgeführt betreffend Abstrahlcharakter
 
 
 \subsection{Designfrequenz}
-Als erstes wurde die Designfrequenz gewählt. Gewählt wurde: 2.75GHz\\
+Es wurde eine Designfrequenz von 2.75GHz gewählt.\\
 
 \subsection{Berechnungen}
-Danach erfolgten Berechnungen zur Länge der Monopolantenne und zur Grösse der Platine. Diese Werte wurden Mithilfe von Excel berechnet:\\
+Die Designfrequenz war die Basis für Berechnungen zur Länge der Monopolantenne und zur Grösse der Platine. Diese Werte wurden Mithilfe von Excel berechnet:
 \vspace{3mm}
-Wellenlänge:\\
+
+Wellenlänge:
+
 \vspace{3mm}
 $\lambda$ = $\frac{c}{f}$ = 109 mm\\
 $\frac{\lambda}{4}$ = 27.2 mm\\
 
-Aussenmasse der Platine: Bei den Aussenmassen der Platine ist ein Fehler unterlaufen. Gemäss Aufgabenstellung sollte die Diagonale der GND-Plane $\frac{\lambda}{\sqrt{2}}$ betragen. Dies entspricht bei der gewählten Designfrequenz 77 mm. Aus Versehen wurde eine Kantenlänge von 77 mm gewählt.\\
+\textbf{Aussenmasse der Platine:} Bei den Aussenmassen der Platine ist ein Fehler unterlaufen. Gemäss Aufgabenstellung sollte die Diagonale der GND-Plane $\frac{\lambda}{\sqrt{2}}$ betragen. Dies entspricht bei der gewählten Designfrequenz 77 mm. Aus Versehen wurde eine Kantenlänge von 77 mm gewählt.\\
 
 \subsection{Koordinatensystem}
 Um sich besser zurechtzufinden, ist hier nochmals das Koordnatensystem mit den Winkel abgebildet. [Joss.M, 2017, Elektromagnetische Felder und Antennen, Seite 8]
@@ -38,33 +40,48 @@ Um sich besser zurechtzufinden, ist hier nochmals das Koordnatensystem mit den W
 	\label{fig:Koordinatensysteme}
 \end{figure}
 
+\newpage
 
 \section{Experimentelles}
 
 \subsection{Verwendete Messgeräte}
 \begin{table}[h] 
 	\centering
-	\begin{tabular}{l|c}
-		Messgerät & Inventarnr.\\
+	\begin{tabular}{l|c|c}
+		Messgerät & Hersteller & Inventarnr.\\
 		\hline\hline
-		Netzwerkanalyzer & 342  \\
-		Starlab & ??  \\
+		Netzwerkanalyzer & Rohde $\&$ Schwarz & 342  \\
+		Linear Scanner & Starlab & ??  \\
 	
 	\end{tabular}
 	\caption{Liste mit den verwendeten Messgeräten}
 	\label{ListeMessgeraete}
 \end{table}
 
+\vspace{30mm}
+
 \subsection{Simulation}
+
+\subsubsection{Vorbereitung zur Simulation}
+
+Vor der eigentlichen Simulation wurde die Monopolantenne im Simulationstool gezeichnet. Die Mononpolantenne besteht aus den drei Komponenten:
+\begin{itemize}
+	\item Groundplane
+	\item Monopol
+	\item Source
+\end{itemize}
 
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=0.6\textwidth]{pic/Simulationen/3D.JPG}
+	\includegraphics[width=0.7\textwidth]{pic/Simulationen/3D.JPG}
 	\caption{3D-Darstellung der Platine}
 	\label{fig:3Ddarstellung}
 \end{figure}
 
-\subsection{Simulationsergebnisse}
+\newpage
+
+\subsubsection{Simulationsergebnisse}
+
 
 \begin{figure}[htbp]
 	\begin{center}
@@ -87,6 +104,9 @@ Um sich besser zurechtzufinden, ist hier nochmals das Koordnatensystem mit den W
 	\end{center}
 \end{figure}
 
+Auf Abbildung \ref{fig:S11_sim} ist ersichtlich, dass der tiefste Reflexionskoeffizient des Designs bei ca. 2.8 GHz liegt.
+Abbildung \ref{fig:Impedanz} zeigt den Realanteil und Imaginäranteil der Impedanz bei der Designfrequenz von 2.75GHz. Der Realanteil beträgt ca. 40 $\Omega$ statt den gewünschten 50 $\Omega$. Der Imaginäranteil beträgt 8 $\Omega$ statt 0 $\Omega$. Mit der Kenntnis der entstehenden Impedanz könnte das Design optimiert werden. Dies war in der Aufgabenstellung nicht gefordert und wurde dementsprechend unterlassen.
+
 \begin{figure}[htbp]
 	\begin{center}
 		\begin{subfigure}[t]{0.49\textwidth}
@@ -108,9 +128,9 @@ Um sich besser zurechtzufinden, ist hier nochmals das Koordnatensystem mit den W
 	\end{center}
 \end{figure}
 
-Die graphische Simulation des Fernfeldes ist misslungen. Die Punkte mit schwachem Feld sollten oberhalb und unterhalb des Monopols liegen. Stattdessen liegen sie in der horizontalen Ebene. Der Fehler für die fehlerhafte Darstellung konnte nicht gefunden werden. Sehr wahrscheinlich liegt es an einer falschen Einstellung im Simulationsprogramm.\\
+Abbildung \ref{fig:Simulationen_2} zeigt die graphische Simulation des Fernfeldes. Die dargestellte Grafik zeigt nicht das gewünschte Verhalten. Die Punkte mit schwachem Feld sollten oberhalb und unterhalb des Monopols liegen. Stattdessen liegen sie in der horizontalen Ebene. Die Ursache für die fehlerhafte Darstellung konnte nicht gefunden werden. Sehr wahrscheinlich liegt es an einer inkorrekten Einstellung im Simulationsprogramm.\\
 
-
+\newpage
 \subsection{Versuchsablauf}
 Nachfolgend ist beschrieben wie die Messungen durchgeführt werden.
 
