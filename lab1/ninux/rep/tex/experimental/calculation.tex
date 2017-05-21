@@ -1,11 +1,14 @@
 \subsection{Berechnungen}
 
 \subsubsection{Wahl der Betriebsfrequenz}
+\label{sec:calculation_frequency}
 
 Um eine möglichst kompakte Antenne zu erhalten, ist eine hohe
 Betriebsfrequenz zu wählen, denn die geometrischen Abmessungen
 der Monopolantenne sind umgekehrt proportional zur Frequenz
-respektive proportional zur Wellenlänge.
+respektive proportional zur Wellenlänge. In der vorliegenden
+Arbeit wird auf eine Korrektur der Geschwindigkeit $c$ verzichtet
+(Freiraumausbreitung).
 
 \begin{equation}
 	l \sim \lambda = \frac{c}{f}
@@ -24,6 +27,14 @@ hohe Frequenz $f$ zu wählen. Die Betriebsfrequenz wird gewählt mit
 \end{equation}
 
 \subsubsection{Monopolantenne auf quadratischer Groundplane}
+
+\begin{figure}[h!]
+	\centering
+	\def\svgwidth{0.5\textwidth}
+	\input{../fig/gph/monopol_a.pdf_tex}
+	\caption{Modellzeichnung der Monopolantenne mit quadratischer
+		Groundplane.}
+\end{figure}
 
 Für die Dimensionierung der Antenne wird die Wellenlänge benötigt,
 welche sich mit der gewählten Frequenz $f$ und der Lichtgeschwindigkeit
@@ -68,10 +79,4 @@ Frequenz $f$ respektive der Wellenlänge $\lambda$ zu ermitteln.
 	= \SI{18.8d-3}{\meter}
 \end{equation}
 
-\begin{figure}[h!]
-	\centering
-	\def\svgwidth{0.5\textwidth}
-	\input{../fig/gph/monopol_a.pdf_tex}
-	\caption{Modellzeichnung der Monopolantenne mit quadratischer
-		Groundplane.}
-\end{figure}
+

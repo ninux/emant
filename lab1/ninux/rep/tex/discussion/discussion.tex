@@ -1,7 +1,53 @@
 \section{Diskussion}
 
-\todo{Die wichtigsten Ergebnisse der Versuche werden in Worte qualitativ
-	beschrieben und bewertet. Unstimmigkeiten zwischen den Ergebnissen
-	einerseits und den allfällig berechneten / simulierten Grössen
-	andererseits sollen diskutiert werden, und mögliche Ursachen als
-	Hypothesen formuliert werden.}
+%\todo{Die wichtigsten Ergebnisse der Versuche werden in Worte qualitativ
+%	beschrieben und bewertet. Unstimmigkeiten zwischen den Ergebnissen
+%	einerseits und den allfällig berechneten / simulierten Grössen
+%	andererseits sollen diskutiert werden, und mögliche Ursachen als
+%	Hypothesen formuliert werden.}
+
+Gemäss der festgehaltenen Resultate zeigen die Simulationen und Messungen
+geringfügige Abweichungen. Diese sollen im Folgenden kurz diskutiert
+werden.
+
+\subsection{Streuparameter $S_{11}$ (Reflexion)}
+Die Simulation zeigt eine geringfügige Abweichung von der gweünschten
+Frequenz $f$, obwohl die berechneten Masse gemäss den Vorgaben verwendet
+worden sind. Das Ergebnis der Simulation deutete dabei auf geringfügig zu
+lange Antenn hin. Die Messung des Streuparameters $S_{11}$ mit dem
+Vector-Network Analyzer zeigte ebenfalls eine geringfügige Abweichung des
+Resonanzpunktes auf. Da die Stablänge sukzessive angepasst wurde gemäss den
+Ergebnissen der Messung mit dem Vector-Network Analyzer, ist diese Abweichung
+in keinem formalen Fehler zu suchen, sondern lediglich als das Ergebnis der
+mechanischen \emph{Trimmgenauigkeit} zu identifizieren. Als formalen
+und systematischen Fehler kann der Einfluss der Annahme der
+Freiraumausbreitungsgeschwindikkeit $c$ erachtet werden (siehe
+Abschnitt \ref{sec:calculation_frequency}), deren Einfluss in der
+vorliegenden Arbeit nicht weiter untersucht wird.
+
+\subsection{Impedanz}
+Die Impedanz zeigt ebenfalls nur geringfügige Abweichungen zwischen
+der Simulation und der Messung. Die genaue Ursache konnte nicht
+ermittelt werden. An dieser Stelle ist festzuhalten, dass sich
+der Aufbau des Simulationsmodells und des realisierten Modells deutlich
+unterscheidet. Zum einen verfügt das Simulationsmodell mit der
+eingesetzten Quelle über eine ideale Anbindung zwischen der Groundplane
+und dem Stab, was im realen Modell durch Lötstellen und einen SMA
+Stecker realisiert ist. Zum anderen wurde der verwendete Stecker
+nicht für die Kalibrierung des Messsystems berücksichtigt, wodurch
+eine geringere Messungenauigkeit zu erwarten ist. Weiter ist zu
+berücksichtigen, dass das Simulationmodell ohne Verluste simuliert
+wurde, wodurch anzunehmen ist, dass das Verhalten der simulierten
+Antenne sich weiter vom Verhalten des realen Modells entfernt.
+
+\subsection{Abstrahlung}
+Die Abstrahlcharakteristik aus Simulation und Messung zeigt wesentliche
+Unterschiede auf betreffend der Symmetrie und dem Winkel der maximalen
+Abstrahlung. Hier ist davon auszugehen, dass die Eigenschaften der
+realisierten Groundplane einen massgebenden Einfluss auf die beobachteten
+Diskrepanzen hat. Insbesondere die gemessene \emph{unruhe} der Abstrahlung
+in Richtung der Goundplane zeigen, dass in Richtung der Groundplane ein
+signifikanter Einfluss auf die Felder der Antenne vorliegt. Zur
+Verbesserung und Verifikation dieser Vermutung ist die Messung mit einer
+grösseren Groundplane zu wiederholen, welche in der vorliegenden Arbeit
+nicht behandelt wird. 
