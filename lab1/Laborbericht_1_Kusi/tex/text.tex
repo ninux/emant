@@ -6,7 +6,7 @@
 
 Dieser Bericht behandelt das Entwickeln, Simulieren und Ausmessen einer Monopolantenne. Zweck der Aufgabenstellung war Erfahrungen in der Handhabung der verschiedenen Tools zu gewinnen. Dazu gehört die Simulationssoftware EMPIRE, das Kalibrieren und Messen mit dem Netzwerkanalyser und das Ausmessen mit dem Linear Scanner.\\
 Die Designfrequenz der Monopolantenne beträgt 2.75 GHz. Mittels der Simulationsoftware EMPIRE wurde das mechanische Design so verändert, dass die Parameter die gewünschten Anforderungen erfüllen. Insbesondere der Reflexionskoeffizient S11 sollte bei der Designfrequenz einen möglichst tiefen Wert erreichen.\\
-Nach der Produktion wurde die Antenne als erstes mit dem Netzwerkanalyzer ausgemessen. Die Antenne zeigte ansatzweise das gewünschte Verhalten. Die effektive Resonanzfrequenz lag leicht höher als die Designfrequenz Der Reflexionskoeffizient S11 war nicht ganz so ausgeprägt wie simuliert. Durch mechanische Bearbeitung (abschneiden) konnte die Resonanzfreqquenz der Designfrequenz angenährt werden.\\
+Nach der Produktion wurde die Antenne als erstes mit dem Netzwerkanalyzer ausgemessen. Die Antenne zeigte ansatzweise das gewünschte Verhalten. Die effektive Resonanzfrequenz lag leicht höher als die Designfrequenz Der Reflexionskoeffizient S11 war nicht ganz so ausgeprägt wie simuliert. Durch mechanische Bearbeitung (abschneiden) konnte die Resonanzfreqquenz der Designfrequenz angenähert werden.\\
 Zum Abschluss wurde noch die Abstrahlcharakteristik der Antenne ausgemessen. Dabei zeigte die Antenne das erwartete Verhalten in der Form eines Apfels.
 
 \newpage
@@ -64,7 +64,7 @@ Um sich besser zurechtzufinden, ist hier nochmals das Koordnatensystem mit den W
 
 \subsubsection{Vorbereitung zur Simulation}
 
-Vor der eigentlichen Simulation wurde die Monopolantenne im Simulationstool gezeichnet. Die Mononpolantenne besteht aus den drei Komponenten:
+Vor der eigentlichen Simulation wurde die Monopolantenne im Simulationstool gezeichnet. Die Monopolantenne besteht aus den drei Komponenten:
 \begin{itemize}
 	\item Groundplane
 	\item Monopol
@@ -136,7 +136,7 @@ Nachfolgend ist beschrieben wie die Messungen durchgeführt werden.
 
 \subsubsection{Netzwerkanalyser}
 \textbf{Kalibrierung}
-Vor der eigentlichen Messung gilt es den Netzwerkanalyser zu kalibrieren. Dafür gibt es spezielle Messwiderstände. Im Umgang mit den Koaxialkabeln gilt es zu beachten, dass diese möglichst wenig gebogen werden. Auch müssen die Kabel mit einem bestimmten Drehmoment angeschlossen werden. Dazu steht ein spezifischer Drehmomentschlüssel zur Verfügung. Das Kabel und die Widerstände sollen so platziert werden, dass sie eine gewisse Distanz zu anderen Gegenständen aufweisen.\\
+Vor der eigentlichen Messung gilt es den Netzwerkanalyser zu kalibrieren. Dafür gibt es spezielle Messwiderstände. Im Umgang mit den Koaxialkabeln gilt es zu beachten, dass diese möglichst wenig gebogen werden. Auch müssen die Kabel mit einem bestimmten Drehmoment angeschlossen werden. Dazu steht ein spezieller Drehmomentschlüssel zur Verfügung. Das Kabel und die Widerstände sollen so platziert werden, dass sie eine gewisse Distanz zu anderen Gegenständen aufweisen.\\
 Der Netzwerkanalyser verfügt über ein Menü (Taste CAL), welches den Anwender durch den Kalibrierungsprozess führt. \\
 \vspace{3mm}
 
@@ -150,18 +150,26 @@ Der Netzwerkanalyser verfügt über ein Menü (Taste CAL), welches den Anwender 
 \textbf{Return-Loss-Messung}\\
 Nach dem Kalibrieren geht es darum die eigentliche Messung durchzuführen. Dazu wird die Monopolantenne ans Kabel angeschlossen. Über die Tasten PRES, MEAS gelangt man in das richtige Menü. Es handelt sich um eine Return-Loss Messung (S11). Bevor das/die Bilder der Messung exportiert werden, empfiehlt es sich einen oder mehrere Marker zu setzen.
 
-
+\newpage
 \subsubsection{Linear Scanner}
-Mit dem Linear Scanner von StarLab kann die Richtstrahlcharakteristik von Antennen bestimmt werden. Es ist wärmstens empfohlen vor dem Montieren des DUT's diesen zu markieren betreffend Achsen (Beispiel; siehe Titelbild). Wenn man vor dem Starlab steht, zeigt die x-Achse nach rechts und die y-Achse nach hinten (ins Gerät hinein). Nach dem Montieren des DUT's kann die Messöffnung mit den beiden mobilen Stellwänden verschlossen werden.\\
-Auf dem BedienPC werden zwei Programme benötigt. Zum einen das Programm SPM, mit welchem die eigentliche Messung durchgeführt wird. Zum anderen das Programm SatEnv, welches die Datenauswertung vornimmt. Nach der Messung können die Daten vom SPM in ein neues Projekt des SatEnv exportiert werden. Betreffend dem Vorgehen der Datenauswertung im SatEnv liegt eine detaillierte Bedienungsanleitung vor.
+Mit dem Linear Scanner von StarLab kann die Richtstrahlcharakteristik von Antennen bestimmt werden. Es ist empfohlen vor dem Montieren des Testprints die Achsen zu markieren (Beispiel; siehe Titelbild). Wenn man vor dem Starlab steht, zeigt die x-Achse nach rechts und die y-Achse nach hinten (ins Gerät hinein). Nach dem Montieren des Testprints kann die Messöffnung mit den beiden mobilen Stellwänden verschlossen werden.\ \\
 
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.6\textwidth]{pic/Messungen/Starlab.JPG}
+	\caption{Linear Scanner von Starlab}
+	\label{fig:Starlab}
+\end{figure}
+
+
+Auf dem BedienPC werden zwei Programme benötigt. Zum einen das Programm SPM, mit welchem die eigentliche Messung durchgeführt wird. Zum anderen das Programm SatEnv, welches die Datenauswertung vornimmt. Nach der Messung können die Daten vom SPM in ein neues Projekt des SatEnv exportiert werden. Betreffend dem Vorgehen der Datenauswertung im SatEnv liegt eine detaillierte Bedienungsanleitung vor.
 
 \newpage
 \section{Resultate}
 
 
 \subsection{Messung mit dem Netzwerkanalyser}
-Bei der ersten Messung des Reflektionskoeffizienten (S11) wurde der tiefste Wert bei einer Frequenz unterhalb von der Designfrequenz 2.75 GHz erreicht. Durch manuelles Verkürzen des Monopols in mehreren Schritten konnte die Frequenz erhöht werden. Es wurde schlussendlich ein bisschen zu viel abgeschnitten, die Antenne ist ein bisschen zu kurz geraten. Die geringste Reflexion wird bei ca. 2.875 GHz erreicht.\\
+Bei der Messung des Reflektionskoeffizienten (S11) wurde der tiefste Wert bei einer Frequenz unterhalb von der Designfrequenz 2.75 GHz erreicht. Durch manuelles Verkürzen des Monopols in mehreren Schritten konnte die Frequenz erhöht werden. Es wurde schlussendlich ein bisschen zu viel abgeschnitten, die Antenne ist ein bisschen zu kurz geraten. Die geringste Reflexion wird bei ca. 2.875 GHz erreicht.\\
 Der S11-Wert von -13.8dB ist nicht enorm gut, aber doch respektabel für einen ersten Entwurf.
 
 \begin{figure}[htbp]
@@ -204,5 +212,6 @@ Der maximale Antennengewinn beträgt 1.9dB beim Punkt mit den Winkeln $\phi$ = 0
 \newpage
 
 \section{Diskussion/Analyse}
-Es konnte eine Monopol-Antenne produziert werden, welche das Verhalten einer Monopol-Antenne zeigt. Die Performance der Antenne ist nicht sonderlich gut, aber liegt in der Toleranz für einen ersten Entwurf.
+Es konnte eine Monopol-Antenne produziert werden, welche das klassische Verhalten einer Monopol-Antenne zeigt. Die Performance der Antenne ist nicht sonderlich gut, aber liegt in der Toleranz für einen ersten Entwurf. Die Schwierigkeiten lagen in der Bedienung der Simulationssoftware EMPIRE und der Datenauswertung im Starlab. Gerade im Starlab steht man unter Zeitdruck, da nur Messgerät zur Verfügung steht.\\
+Trotz der Schwierigkeiten, konnten Erfahrungen im Umgang mit der Simulationssoftware und den Messgeräten gesammelt werden.
 
