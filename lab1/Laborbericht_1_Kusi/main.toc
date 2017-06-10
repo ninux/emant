@@ -11,8 +11,8 @@
 \contentsline {subsubsection}{\numberline {3.2.2}Simulationsergebnisse}{4}{subsubsection.3.2.2}
 \contentsline {subsection}{\numberline {3.3}Versuchsablauf}{5}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Netzwerkanalyser}{5}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Linear Scanner}{5}{subsubsection.3.3.2}
-\contentsline {section}{\numberline {4}Resultate}{6}{section.4}
-\contentsline {subsection}{\numberline {4.1}Messung mit dem Netzwerkanalyser}{6}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Messung mit dem Linearscanner}{7}{subsection.4.2}
-\contentsline {section}{\numberline {5}Diskussion/Analyse}{8}{section.5}
+\contentsline {subsubsection}{\numberline {3.3.2}Linear Scanner}{6}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Resultate}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Messung mit dem Netzwerkanalyser}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Messung mit dem Linearscanner}{8}{subsection.4.2}
+\contentsline {section}{\numberline {5}Diskussion/Analyse}{9}{section.5}
