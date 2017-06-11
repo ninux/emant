@@ -53,7 +53,7 @@ gloss_online:
 
 # COMMON ----------------------------------------------------------------------
 figures:
-	#$(MAKE) -C $(FIG_DIR)
+	$(MAKE) -C $(FIG_DIR)
 
 data:
 	#$(MAKE) all -C $(DATA_DIR)
