@@ -30,7 +30,7 @@ Vor dem Einsatz des Netzwerkanalyzers wurde dieser kalibiert.
 Mit dem Netzwerkanalyzer wurden Messungen ohne und mit Gehäuse gemacht bei 2.4 GHz und 5 GHz. In diesem Bericht wird der Fokus  auf die Messung mit Gehäuse gelegt. Zum einen Überblick über das gesamte Frequenzspektrum zu vermitteln.
 Abbildungen x zeigen einen Überblick über das gesamte Frequenzspektrum von 1.75 GHz bis 5.75 GHz.  Im Abschnitt x und Abschnitt y wird auf die Messungen bei den spezifischen Designfrequenzen eingegangen.
 
-\begin{figure}[htbp]
+\begin{figure}[h!]
 	\begin{center}
 		\begin{subfigure}[t]{0.49\textwidth}
 			\begin{center}
@@ -56,7 +56,7 @@ Abbildungen x zeigen einen Überblick über das gesamte Frequenzspektrum von 1.7
 
 Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner als -50dB
 
-\begin{figure}[htbp]
+\begin{figure}[h!]
 	\begin{center}
 		\begin{subfigure}[t]{0.49\textwidth}
 			\begin{center}
@@ -79,7 +79,7 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 
 \subsubsection{Impedanz}
 
-\begin{figure}[htbp]
+\begin{figure}[h!]
 	\begin{center}
 		\begin{subfigure}[t]{0.49\textwidth}
 			\begin{center}
@@ -110,12 +110,59 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 	\label{fig:LaptopimStarlab}
 \end{figure}
 
+
+\begin{figure}[h!]
+	\begin{center}
+		\begin{subfigure}[t]{0.49\textwidth}
+			\begin{center}
+				\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_justsphere.jpg}
+				\caption{Kugel 2.4 GHz}
+				\label{fig:sphere_2ghz4}
+			\end{center}
+		\end{subfigure}
+		\begin{subfigure}[t]{0.49\textwidth}
+			\begin{center}
+				\includegraphics[width=1\textwidth]{../fig/plt/5GHz_just_sphere.jpg}
+				\caption{Kugel 5.0 GHz}
+				\label{fig:sphere_5ghz0}
+			\end{center}
+		\end{subfigure}
+		\caption{Starlab Messung Etot}
+		\label{fig:starlab_etot_sphere}
+	\end{center}
+\end{figure}
+
+\begin{figure}[h!]
+	\begin{center}
+		\begin{subfigure}[t]{0.49\textwidth}
+			\begin{center}
+				\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_E_tot_curve.jpg}
+				\caption{Kurve 2.4 GHz}
+				\label{fig:curve_2ghz4}
+			\end{center}
+		\end{subfigure}
+		\begin{subfigure}[t]{0.49\textwidth}
+			\begin{center}
+				\includegraphics[width=1\textwidth]{../fig/plt/5GHz_E_tot_curve.jpg}
+				\caption{Kurve 5.0 GHz}
+				\label{fig:curve_5ghz0}
+			\end{center}
+		\end{subfigure}
+		\caption{Starlab Messung Etot}
+		\label{fig:starlab_etot_curve}
+	\end{center}
+\end{figure}
+
+
+
 \subsubsection{Vergleich}
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.8\textwidth]{../fig/plt/comparison_l4_pcb_v2c_laptop_1a_105_etot_phi90_2ghz4.png}
-	\caption{$\vec{E}_{\varphi} \;\; 90^\circ$}
+	\caption{$\vec{E}_{\varphi} \;\; 90^\circ$\\
+		\hspace*{107pt}oben: simuliert\\
+		\hspace*{115pt}unten: gemessen}
 	\label{fig:E_tot_90}
 \end{figure}
 
