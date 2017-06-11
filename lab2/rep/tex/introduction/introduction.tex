@@ -1,8 +1,11 @@
 \section{Einführung}
-Dieser Design Report zeigt die Simulationen und Messresultate für einen Wireless USB-Dongle. Die Sendefrequenzen liegen bei 2.4 GHz und 5 GHz.
+Dieser Design Report zeigt die Vorgehensweise um einen Wireless USB-Dongle mit Sendefrequenzen von 2.4 GHz und 5 GHz zu entwickeln. Als erstes wurden Berechnungen betreffend Machbarkeit durchgeführt. Danach wurde in der Simulationsumgebung Empire ein Modell erstellt und simuliert. Über mehrere Simulationsschritte wurde das Modell verfeinert. Nach dem Herstellen des Printes folgte das Ausmessen des Printes. Dies geschah mittels Netzwerkanalyzer und dem LinearScanner Starlab. Zum Abschluss erfolgte ein Vergleich zwischen den Simulationsresultaten und den Messergebnissen
 
 \subsection{Erläuterungen zu den Berechnungen}
-\textcolor{red}{Betreffend der Freiraumdämpfung wurde ein Sendedurchmesser von 20m gewählt. Dies resultiert in einer Freiraumdämpfung von -57 dB.\\Über das Linkbudget ist ersichtlich, dass der Antennengewinn nicht kleiner als -6dB sein darf.\\Das Antennendesign benötigt nicht den gesamten zur Verfügung stehenden Platz. Mithilfe Chu's Kugel konnten die Aussenmasse der Antenne bestimmt werden. Das Harrington Gain Limit zeigt den maximal möglichen Gewinn der Antenne. Berechnet wurden 0.2dB, in der Praxis dürfte der Wert tiefer liegen. Er sollte aber nicht tiefer als -6 dB liegen.}
+Die nachfolgenden Berechnungen waren die Grundlage für die Entwicklung des ersten Entwurfs. 
+Betreffend der Freiraumdämpfung wurde ein Sendedurchmesser von 20m gewählt. Dies resultiert in einer Freiraumdämpfung von -57 dB.\\
+Über das Linkbudget ist ersichtlich, dass der Antennengewinn nicht kleiner als -6dB sein darf.\\
+Das Antennendesign benötigt nicht den gesamten zur Verfügung stehenden Platz. Mithilfe Chu's Kugel konnten die Aussenmasse der Antenne bestimmt werden. Das Harrington Gain Limit zeigt den maximal möglichen Gewinn der Antenne. Berechnet wurden 0.2dB, in der Praxis dürfte der Wert tiefer liegen. Er sollte aber nicht tiefer als -6 dB liegen.
 
 
 
