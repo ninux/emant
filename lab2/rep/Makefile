@@ -12,7 +12,7 @@ DATA_DIR = ./../../sim
 
 online: figures data latex_online gloss_online bib_online doc_online clean
 
-print: figures data latex_print gloss_print bib_print doc_print clean
+print: figures data latex_print gloss_print doc_print clean
 
 # PRINT AND ONLINE VERSION ----------------------------------------------------
 all: online print
