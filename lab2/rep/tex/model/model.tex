@@ -10,12 +10,13 @@
 	\label{fig:antenna_concept_1}
 \end{figure}
 
-Die Entwurf einer einfachen Monopol-Antenne richtet sich nach der dargestellten
+Der Entwurf einer einfachen Monopol-Antenne richtet sich nach der dargestellten
 Skizze in Abbildung \ref{fig:antenna_concept_1}. Diese zeigt die zwei
-\emph{elementaren} Monopolantennen für eine Frequenz von \SI{2.4}{\giga\hertz}
-respektive \SI{5.0}{\giga\hertz}. Um nun eine Antenne zu erhalten, welche bei
-beiden Frequenzen eine geeginete Abstrahlung zeigt, wurde versucht, diese
-beiden \emph{elementaren} Antennen zu kombinieren. Dies ist in der
+\emph{elementaren} Monopolantennen für eine Frequenz von \SI{2.4}{\giga\hertz},
+respektive \SI{5.0}{\giga\hertz}. 
+ 
+
+Mittels Kombination der beiden \emph{elementaren} Antennen wurde versucht, eine Antenne zu generieren, welche in der Lage ist bei beiden Frequenzen eine geeignete Abstrahlung zu erzeugen. Dies ist in der
 Abbildung \ref{fig:antenna_concept_2} dargestellt. 
 
 \begin{figure}[h!]
@@ -32,13 +33,13 @@ Abbildung \ref{fig:antenna_concept_2} dargestellt.
 \end{figure}
 
 Die Abbildung \ref{fig:antenna_concept_2} zeigt die Prinzipskizze des
-realisierten Antennententwurfs. Die Zusammenführung der Antennen erfolgte
-empririsch, wobei verschiedene Konzepte untersucht wurden. Der dargestellte
-Entwurf zeigt jenes Konzept, welches sich als besonders geeginet erwies.
+realisierten Antennenentwurfs. Die Zusammenführung der Antennen erfolgte
+empirisch, wobei verschiedene Konzepte untersucht wurden. Der dargestellte
+Entwurf zeigt jenes Konzept, welches sich als besonders geeignet erwies.
 
 Die Untersuchung der unterschiedlichen Konzepte zeigte, dass je nach
-Entwurf die Antenne eine gute Charakteristik für die eine oder andere
-Frequenz zeigte. Hierbei zeigte die Simulation $S_{11}$ Werte von
+Entwurf die Antenne eine gute Charakteristik für die eine oder die andere
+Frequenz aufwies. Hierbei zeigte die Simulation $S_{11}$ Werte von
 typischerweise \SI{-30}{\dB}. Da ein empirisches Vorgehen verwendet
 wird, wurde für die Auswahl eines passenden Entwurfs ein Vorgehen und
 Qualitätskriterium definiert:
@@ -56,13 +57,13 @@ Qualitätskriterium definiert:
 \end{center}
 
 Zunächst wurde ein Konzept verfolgt, bei welchem sich die Antennen
-ideal voneinander entfernen, in der Annahme, dass so unerwünschte
-Welchselwirkungen der Felder minimal ausfallen. Aufgrund des gemeinsamen
+ideal voneinander entfernen. Dies basierte auf der Annahme, dass so unerwünschte
+Wechselwirkungen der Felder minimiert werden können. Aufgrund des gemeinsamen
 Einspeisepunktes war ein solches Konzept schwierig umzusetzen. Als weiteres
 Konzept wurde versucht, die kürzere Antenne aus der Längeren heraus
 abzuzweigen.
 
-Die Untersuchungen zeigten jedoch, dass tiefere Werte von $S_{11}$
+Die Untersuchungen zeigten jedoch, dass bessere Werte von $S_{11}$
 erreicht werden, wenn die kürzere Antenne nahe an die längere Antenne
 geführt wird. Der damit erstellte \emph{ring} schliesst sich dabei
 idealerweise bei gleicher Länge beider Pfade.
@@ -76,9 +77,7 @@ idealerweise bei gleicher Länge beider Pfade.
 	\label{fig:antenna_concept_1}
 \end{figure}
 
-
-\subsection{Erläuterung zur Modellbildung}
-Um zwei Frequenzen bedienen zu können, wurden zwei Antennenteile realisiert, welche sich im Betrieb ergänzen.
+Das Modell in Abbildung \ref{fig:modell} auf Seite \pageref{fig:modell} ist das Resultat aus den oben genannten Beobachtungen und empirischen Versuchen. 
 
 \subsubsection{Modell}
 
@@ -86,5 +85,6 @@ Um zwei Frequenzen bedienen zu können, wurden zwei Antennenteile realisiert, we
 	\centering
 	\includegraphics[width=0.7\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_5ghz_3d_pcb_xy.png}
 	\caption{2D Modell, Ansicht von oben}
+	\label{fig:modell}
 \end{figure}
 
