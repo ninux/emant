@@ -9,8 +9,6 @@ Die entwickelte Platine
 \end{figure}
 
 
-
-
 \subsection{Messungen mit dem Netzwerkanalyzer}
 
 Marke: Rhode$\&$Schwartz\\
@@ -52,6 +50,7 @@ Abbildungen x zeigen einen Überblick über das gesamte Frequenzspektrum von 1.7
 \end{figure}
 
 
+\clearpage
 \subsubsection{Reflexionskoeffizient S11}
 
 Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner als -50dB
@@ -110,6 +109,8 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 	\label{fig:LaptopimStarlab}
 \end{figure}
 
+\clearpage
+\subsubsection{Abstrahlung 3D}
 
 \begin{figure}[h!]
 	\begin{center}
@@ -132,6 +133,8 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 	\end{center}
 \end{figure}
 
+%\clearpage
+\subsubsection{Abstrahlung 2D}
 \begin{figure}[h!]
 	\begin{center}
 		\begin{subfigure}[t]{0.49\textwidth}
@@ -153,16 +156,63 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 	\end{center}
 \end{figure}
 
-
-
-\subsubsection{Vergleich}
-
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.8\textwidth]{../fig/plt/comparison_l4_pcb_v2c_laptop_1a_105_etot_phi90_2ghz4.png}
-	\caption{$\vec{E}_{\varphi} \;\; 90^\circ$\\
+	\caption{$\vec{E}_{\varphi}$ \;\; \SI{90}{\degree} \\
 		\hspace*{107pt}oben: simuliert\\
 		\hspace*{115pt}unten: gemessen}
 	\label{fig:E_tot_90}
 \end{figure}
+
+\clearpage
+\section{Vergleich Simulation und Messung}
+
+\subsection{Abstrahlung 3D}
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_2ghz4_3d_eabs_sphere.png}
+		\caption{Simulation \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_5ghz_3d_eabs_sphere.png}
+		\caption{Simulation \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+
+	\begin{subfigure}[t]{0.49\textwidth}
+	 	\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_justsphere.jpg}
+		\caption{Messung \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.49\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/5GHz_just_sphere.jpg}
+		\caption{Messung \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+\end{figure}
+
+\clearpage
+\subsection{Abstrahlung 2D}
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_eabs_phi90_2ghz4.png}
+		\caption{Simulation \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_eabs_phi90_5ghz.png}
+		\caption{Simulation \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+
+	\begin{subfigure}[t]{0.49\textwidth}
+	 	\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_E_tot_curve.jpg}
+		\caption{Messung \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.49\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/5GHz_E_tot_curve.jpg}
+		\caption{Messung \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+\end{figure}
+
 
