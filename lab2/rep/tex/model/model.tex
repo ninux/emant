@@ -16,7 +16,9 @@ Skizze in Abbildung \ref{fig:antenna_concept_1}. Diese zeigt die zwei
 respektive \SI{5.0}{\giga\hertz}. 
  
 
-Mittels Kombination der beiden \emph{elementaren} Antennen wurde versucht, eine Antenne zu generieren, welche in der Lage ist bei beiden Frequenzen eine geeignete Abstrahlung zu erzeugen. Dies ist in der
+Mittels Kombination der beiden \emph{elementaren} Antennen wurde versucht,
+eine Antenne zu generieren, welche in der Lage ist bei beiden Frequenzen
+eine geeignete Abstrahlung zu erzeugen. Dies ist in der
 Abbildung \ref{fig:antenna_concept_2} dargestellt. 
 
 \begin{figure}[h!]
@@ -45,15 +47,19 @@ wird, wurde für die Auswahl eines passenden Entwurfs ein Vorgehen und
 Qualitätskriterium definiert:
 
 \begin{center}
-	--- \textbf{Schritt 1} --- \\
+	--- $\cdot$ $\bullet$ \textbf{Schritt 1} $\bullet$ $\cdot$ --- \\
 	\emph{
-		Wenn der Reflexionskoeffizient $S_{11}$ \\
-		nicht für beide Freuenzen $< \SI{-15}{\dB}$ ist, \\
-		so ist der Entwurf anzupassen.} \\
-	--- \textbf{Schritt 2} --- \\
+		Wenn der Reflexionskoeffizient $S_{11}$ nicht für beide Freuenzen \\
+		kleiner $\SI{-15}{\dB}$ ist, so ist der Entwurf anzupassen.} \\ ~ \\
+	--- $\cdot$ $\bullet$ \textbf{Schritt 2} $\bullet$ $\cdot$ --- \\
 	\emph{
-		Wenn die Impedanz nicht $Z \neq \SI{50}{\ohm}$ ist, \\
-		so \todo{was genau?}.} \\
+		Wenn die Impedanz $Z \neq \SI{50}{\ohm}$ ist, so ist der \\
+		Entwurf anzupassen. Hierbei sind kapazitive Anpassungen in \\
+		Regionen mit hohem elektrischen Feld und induktive Anpassungen \\
+		in Regionen mit hohen Stromdichten durchzuführen.} \\ ~ \\
+	--- $\cdot$ $\bullet$ \textbf{Schritt 3} $\bullet$ $\cdot$ --- \\
+	\emph{
+		Gehe zu Schritt 1 zurück und überprüfe die Kriterien erneut.}
 \end{center}
 
 Zunächst wurde ein Konzept verfolgt, bei welchem sich die Antennen
@@ -66,7 +72,9 @@ abzuzweigen.
 Die Untersuchungen zeigten jedoch, dass bessere Werte von $S_{11}$
 erreicht werden, wenn die kürzere Antenne nahe an die längere Antenne
 geführt wird. Der damit erstellte \emph{ring} schliesst sich dabei
-idealerweise bei gleicher Länge beider Pfade.
+idealerweise bei gleicher Länge beider Pfade (dort liegt die gleiche
+elektrische Feldstärke vor bei der höheren Zielfrequenz von
+\SI{5.0}{\giga\hertz}).
 
 \begin{figure}[h!]
 	\centering
@@ -77,14 +85,24 @@ idealerweise bei gleicher Länge beider Pfade.
 	\label{fig:antenna_concept_1}
 \end{figure}
 
-Das Modell in Abbildung \ref{fig:modell} auf Seite \pageref{fig:modell} ist das Resultat aus den oben genannten Beobachtungen und empirischen Versuchen. 
+Mit dem erläuterten Vorgehen wurde ein Antennendesign entwickelt,
+welches in der Abbildung \ref{fig:modell} dargestellt ist. Dieses ist
+somit das Ergebnis einer empirischen Optimierung basierend auf der
+Untersuchung des Reflexionskoeffizienten und der Impedanz.
 
 \subsubsection{Modell}
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.7\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_5ghz_3d_pcb_xy.png}
-	\caption{2D Modell, Ansicht von oben}
+	\caption[Leiterplattenmodell des Antennenentwurfs im Empire.]{
+		Leiterplattenmodell des Antennenentwurfs im Empire.
+		Die Abbildung zeigt den Antennenbereich der Leiterplatte
+		mit der Groundplane (unten), der Antenne (oben) und der
+		idealen Einspeisung (zwischen Groundplane und Antenne).
+		Hierbei ist das Substrat (FR4) blau dargestellt und das
+		Kupfer orange. Die dargestellte Ansicht zeigt das
+		Design in der XY Ebene (siehe Koordinatenkreuz).}	
 	\label{fig:modell}
 \end{figure}
 

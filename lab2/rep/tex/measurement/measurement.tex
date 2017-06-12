@@ -25,8 +25,14 @@ Vor dem Einsatz des Netzwerkanalyzers wurde dieser kalibiert.
 	\label{fig:calib}
 \end{figure}
 
-Mit dem Netzwerkanalyzer wurden Messungen ohne und mit Gehäuse gemacht bei 2.4 GHz und 5 GHz. In diesem Bericht wird der Fokus  auf die Messung mit Gehäuse gelegt. Zum einen Überblick über das gesamte Frequenzspektrum zu vermitteln.
-Abbildungen x zeigen einen Überblick über das gesamte Frequenzspektrum von 1.75 GHz bis 5.75 GHz.  Im Abschnitt x und Abschnitt y wird auf die Messungen bei den spezifischen Designfrequenzen eingegangen.
+Mit dem Netzwerkanalyzer wurden Messungen ohne und mit Gehäuse gemacht
+bei \SI{2.4}{\giga\hertz} und \SI{5}{\giga\hertz}. In diesem Bericht
+wird der Fokus auf die Messung mit Gehäuse gelegt. Zum einen Überblick
+über das gesamte Frequenzspektrum zu vermitteln. Abbildungen x zeigen
+einen Überblick über das gesamte Frequenzspektrum von
+\SI{1.75}{\giga\hertz} bis \SI{5.75}{\giga\hertz}. Im Abschnitt x und
+Abschnitt y wird auf die Messungen bei den spezifischen Designfrequenzen
+eingegangen.
 
 \begin{figure}[h!]
 	\begin{center}
@@ -101,110 +107,161 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 
 \newpage
 \subsection{Messungen mit dem Starlab}
-
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.6\textwidth]{../fig/plt/LaptopimStarLab.JPG}
-	\caption{DUT eingesteckt am Laptop im LinearScanner}
+	\def\svgscale{0.75}
+	\input{../fig/gph/starlab_setup_annotated.pdf_tex}
+	\caption{Aufbau der Messung im StarLab.}
 	\label{fig:LaptopimStarlab}
 \end{figure}
+
+%\begin{figure}[h!]
+%	\centering
+%	\includegraphics[width=0.6\textwidth]{../fig/plt/LaptopimStarLab.JPG}
+%	\caption{DUT eingesteckt am Laptop im LinearScanner}
+%	\label{fig:LaptopimStarlab}
+%\end{figure}
 
 \clearpage
 \subsubsection{Abstrahlung 3D}
 
 \begin{figure}[h!]
-	\begin{center}
-		\begin{subfigure}[t]{0.40\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/star_lab_2ghz4_xy_reduced.png}
-				\caption{XY \SI{2.4}{\giga\hertz}}
-			\end{center}
-		\end{subfigure}
-		\begin{subfigure}[t]{0.40\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/star_lab_5ghz0_xy_reduced.png}
-				\caption{XY \SI{5.0}{\giga\hertz}}
-			\end{center}
-		\end{subfigure}
-		
-		\begin{subfigure}[t]{0.40\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/star_lab_2ghz4_xz_reduced.png}
-				\caption{XZ \SI{2.4}{\giga\hertz}}
-			\end{center}
-		\end{subfigure}
-		\begin{subfigure}[t]{0.40\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/star_lab_5ghz0_xz_reduced.png}
-				\caption{XZ \SI{5.0}{\giga\hertz}}
-			\end{center}
-		\end{subfigure}
+	\centering
+	\begin{subfigure}[t]{0.35\textwidth}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{../fig/plt/star_lab_2ghz4_xy_reduced.png}
+			\caption{$\vec{E_{tot}}$ XY \SI{2.4}{\giga\hertz}}
+		\end{center}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.35\textwidth}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{../fig/plt/star_lab_5ghz0_xy_reduced.png}
+			\caption{$\vec{E_{tot}}$XY \SI{5.0}{\giga\hertz}}
+		\end{center}
+	\end{subfigure}
 	
-		\begin{subfigure}[t]{0.40\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/star_lab_2ghz4_yz_reduced.png}
-				\caption{YX \SI{2.4}{\giga\hertz}}
-			\end{center}
-		\end{subfigure}
-		\begin{subfigure}[t]{0.40\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/star_lab_5ghz0_yz_reduced.png}
-				\caption{YX \SI{5.0}{\giga\hertz}}
-			\end{center}
-		\end{subfigure}
-	\end{center}
-\end{figure}
+	\begin{subfigure}[t]{0.35\textwidth}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{../fig/plt/star_lab_2ghz4_xz_reduced.png}
+			\caption{$\vec{E_{tot}}$XZ \SI{2.4}{\giga\hertz}}
+		\end{center}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.35\textwidth}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{../fig/plt/star_lab_5ghz0_xz_reduced.png}
+			\caption{$\vec{E_{tot}}$XZ \SI{5.0}{\giga\hertz}}
+		\end{center}
+	\end{subfigure}
 
-
-\begin{figure}[h!]
-	\begin{center}
-		\begin{subfigure}[t]{0.49\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_justsphere.jpg}
-				\caption{Kugel 2.4 GHz}
-				\label{fig:sphere_2ghz4}
-			\end{center}
-		\end{subfigure}
-		\begin{subfigure}[t]{0.49\textwidth}
-			\begin{center}
-				\includegraphics[width=1\textwidth]{../fig/plt/5GHz_just_sphere.jpg}
-				\caption{Kugel 5.0 GHz}
-				\label{fig:sphere_5ghz0}
-			\end{center}
-		\end{subfigure}
-		\caption{Starlab Messung Etot}
-		\label{fig:starlab_etot_sphere}
-	\end{center}
+	\begin{subfigure}[t]{0.35\textwidth}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{../fig/plt/star_lab_2ghz4_yz_reduced.png}
+			\caption{$\vec{E_{tot}}$YZ \SI{2.4}{\giga\hertz}}
+		\end{center}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.35\textwidth}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{../fig/plt/star_lab_5ghz0_yz_reduced.png}
+			\caption{$\vec{E_{tot}}$YZ \SI{5.0}{\giga\hertz}}
+		\end{center}
+	\end{subfigure}
+	\caption[3D Abstrahlung gemessen mit StarLab]{
+		3D Abstrahlung gemessen mit StarLab. Die Abbildung
+		zeigt die Abstrahlung als eingefärbte Kugeln in den
+		drei Grundansichten XY, XZ und YZ für die beiden
+		Frequenzen \SI{2.4}{\giga\hertz} und
+		\SI{5.0}{\giga\hertz}.}
 \end{figure}
 
 %\clearpage
-\subsubsection{Abstrahlung 2D}
-\begin{figure}[h!]
-	\begin{center}
-		\begin{subfigure}[t]{0.49\textwidth}
-			\includegraphics[width=1\textwidth]{../fig/plt/2G4_90phi_etot_dB.JPG}
-			\caption{\SI{2.4}{\giga\hertz}}
-		\end{subfigure}
-		\begin{subfigure}[t]{0.49\textwidth}
-			\includegraphics[width=1\textwidth]{../fig/plt/5G0_90phi_etot_dB.JPG}
-			\caption{\SI{5.0}{\giga\hertz}}
-		\end{subfigure}
-		\caption[Auswertung der Abstrahlungscharakteristik]{
-			Auswertung der Abstrahlungscharakteristik.
-			Die Abbildung zeigt die gemessenen Werte von $\vec{E}_{tot}$
-			bei fixiertem $\varphi = \SI{90}{\degree}$.}
-		\label{fig:starlab_etot_curve}
-	\end{center}
-\end{figure}
+%\begin{figure}[h!]
+%	\begin{center}
+%		\begin{subfigure}[t]{0.49\textwidth}
+%			\begin{center}
+%				\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_justsphere.jpg}
+%				\caption{Kugel 2.4 GHz}
+%				\label{fig:sphere_2ghz4}
+%			\end{center}
+%		\end{subfigure}
+%		\begin{subfigure}[t]{0.49\textwidth}
+%			\begin{center}
+%				\includegraphics[width=1\textwidth]{../fig/plt/5GHz_just_sphere.jpg}
+%				\caption{Kugel 5.0 GHz}
+%				\label{fig:sphere_5ghz0}
+%			\end{center}
+%		\end{subfigure}
+%		\caption{Starlab Messung Etot}
+%		\label{fig:starlab_etot_sphere}
+%	\end{center}
+%\end{figure}
+
+\clearpage
+\subsubsection{Abstrahlung 1D}
+
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.8\textwidth]{../fig/plt/comparison_l4_pcb_v2c_laptop_1a_105_etot_phi90_2ghz4.png}
-	\caption{$\vec{E}_{\varphi}$ \;\; \SI{90}{\degree} \\
-		\hspace*{107pt}oben: simuliert\\
-		\hspace*{115pt}unten: gemessen}
-	\label{fig:E_tot_90}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/2G4_90phi_etot_dB.JPG}
+		\caption{$\vec{E_{tot}}$ mit $\varphi=\SI{90}{\degree}$ bei \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/5G0_90phi_etot_dB.JPG}
+		\caption{$\vec{E_{tot}}$ mit $\varphi=\SI{90}{\degree}$ bei \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/2G4_90phi_ephi_amp_dB.JPG}
+		\caption{$\vec{E_{\varphi}}$ mit $\varphi=\SI{90}{\degree}$ bei \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/5G0_90phi_ephi_amp_dB.JPG}
+		\caption{$\vec{E_{\varphi}}$ mit $\varphi=\SI{90}{\degree}$ bei \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/2G4_90phi_etheta_amp_dB.JPG}
+		\caption{$\vec{E_{\theta}}$ mit $\varphi=\SI{90}{\degree}$ bei \SI{2.4}{\giga\hertz}}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\includegraphics[width=1\textwidth]{../fig/plt/5G0_90phi_etheta_amp_dB.JPG}
+		\caption{$\vec{E_{\theta}}$ mit $\varphi=\SI{90}{\degree}$ bei \SI{5.0}{\giga\hertz}}
+	\end{subfigure}
+	\caption[1D Messungen mit StarLab für $\vec{E_{tot}}$, $\vec{E_{\varphi}}$ und $\vec{E_{\theta}}$]{
+		1D Messungen mit StarLab für $\vec{E_{tot}}$, $\vec{E_{\varphi}}$ und $\vec{E_{\theta}}$.
+		Die Abbildung zeigt die gemessenen Verläufe für die
+		verschiedenen Vektoren bei fixiertem
+		$\varphi = \SI{90}{\degree}$.}
 \end{figure}
+
+
+
+%\begin{figure}[h!]
+%	\begin{center}
+%		\begin{subfigure}[t]{0.49\textwidth}
+%			\includegraphics[width=1\textwidth]{../fig/plt/2G4_90phi_etot_dB.JPG}
+%			\caption{\SI{2.4}{\giga\hertz}}
+%		\end{subfigure}
+%		\begin{subfigure}[t]{0.49\textwidth}
+%			\includegraphics[width=1\textwidth]{../fig/plt/5G0_90phi_etot_dB.JPG}
+%			\caption{\SI{5.0}{\giga\hertz}}
+%		\end{subfigure}
+%		\caption[Auswertung der Abstrahlungscharakteristik]{
+%			Auswertung der Abstrahlungscharakteristik.
+%			Die Abbildung zeigt die gemessenen Werte von $\vec{E}_{tot}$
+%			bei fixiertem $\varphi = \SI{90}{\degree}$.}
+%		\label{fig:starlab_etot_curve}
+%	\end{center}
+%\end{figure}
+%
+%\begin{figure}[h!]
+%	\centering
+%	\includegraphics[width=0.8\textwidth]{../fig/plt/comparison_l4_pcb_v2c_laptop_1a_105_etot_phi90_2ghz4.png}
+%	\caption{$\vec{E}_{\varphi}$ \;\; \SI{90}{\degree} \\
+%		\hspace*{107pt}oben: simuliert\\
+%		\hspace*{115pt}unten: gemessen}
+%	\label{fig:E_tot_90}
+%\end{figure}
 
 \clearpage
 \subsubsection{Optimale Abstrahlung}
@@ -227,11 +284,20 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 		\includegraphics[width=1\textwidth]{../fig/plt/5GHz_E_tot_curve.jpg}
 		\caption{Kurve 5.0 GHz}
 	\end{subfigure}
-	\caption{Optimale Abstrahlung}
+	\caption[Optimale Abstrahlung ausgewertet mit dem Antenna Analyser]{
+		Optimale Abstrahlung ausgewertet mit dem Antenna Analyser.
+		Die Abbildung zeigt den jeweiligen Punkt mit optimaler
+		Abstrahlung für \SI{2.4}{\giga\hertz} und \SI{5.0}{\giga\hertz}
+		als schwarzen Punkt in den 3D Darstellungen (a,b). Der durch den
+		jeweiligen Punkt verlaufende Ring (gestrichtelt) zeigt die
+		ausgewertete Abstrahlung, welche als eindimensionaler Verlauf
+		von $\vec{E_{tot}}$ dargestellt ist (c,d).}
+	\label{fig:etot_max_measured}
 \end{figure}
 
-\todo{Antenna-Analyser}
-
+Die optimale Abstrahlung wurde mit dem Antenna Analyser ermittelt.
+Die Abbildung \ref{fig:etot_max_measured} zeigt die dabei festgestellten
+Ergebnisse.
 
 \clearpage
 \section{Vergleich Simulation und Messung}
@@ -257,28 +323,37 @@ Bei 2.4 GHz zeigte sich ein äusserst ausgeprägter Reflexionskoeffizent kleiner
 		\includegraphics[width=1\textwidth]{../fig/plt/5GHz_just_sphere.jpg}
 		\caption{Messung \SI{5.0}{\giga\hertz}}
 	\end{subfigure}
+	\caption[Vergleich der 3D Abstrahlung aus Simulation und Messung]{
+		Vergleich der 3D Abstrahlung aus Simulation und Messung.
+		Die Abbildung zeigt die Abstrahlung für $\vec{E_{tot}}$
+		bei gleicher Ansicht für die beiden Frequenzen
+		\SI{2.4}{\giga\hertz} und \SI{5.0}{\giga\hertz}.}
 \end{figure}
 
 \clearpage
-\subsection{Abstrahlung 2D}
+\subsection{Abstrahlung 1D}
 
 \begin{figure}[h!]
 	\centering
 	\begin{subfigure}[b]{0.48\textwidth}
-		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_eabs_phi90_2ghz4.png}
+		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_2ghz4_eabs_phi90-trim.png}
+		%\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_eabs_phi90_2ghz4.png}
 		\caption{Simulation \SI{2.4}{\giga\hertz}}
 	\end{subfigure}
 	\begin{subfigure}[b]{0.48\textwidth}
-		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_eabs_phi90_5ghz.png}
+		\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_5ghz0_eabs_phi90-trim.png}
+		%\includegraphics[width=1\textwidth]{../fig/plt/crazy_stuff_l4_pcb_v2c_laptop_1a_105_eabs_phi90_5ghz.png}
 		\caption{Simulation \SI{5.0}{\giga\hertz}}
 	\end{subfigure}
 
 	\begin{subfigure}[t]{0.49\textwidth}
-	 	\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_E_tot_curve.jpg}
+		\includegraphics[width=1\textwidth]{../fig/plt/2G4_90phi_etot_dB.JPG}
+	 	%\includegraphics[width=1\textwidth]{../fig/plt/2_4GHz_E_tot_curve.jpg}
 		\caption{Messung \SI{2.4}{\giga\hertz}}
 	\end{subfigure}
 	\begin{subfigure}[t]{0.49\textwidth}
-		\includegraphics[width=1\textwidth]{../fig/plt/5GHz_E_tot_curve.jpg}
+		\includegraphics[width=1\textwidth]{../fig/plt/5G0_90phi_etot_dB.JPG}
+		%\includegraphics[width=1\textwidth]{../fig/plt/5GHz_E_tot_curve.jpg}
 		\caption{Messung \SI{5.0}{\giga\hertz}}
 	\end{subfigure}
 \end{figure}
