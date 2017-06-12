@@ -1,7 +1,7 @@
 # DEFINITIONS -----------------------------------------------------------------
 DOC_PRINT = report_print
 DOC_ONLINE = report_online
-DOC_OUT_PRINT = EMANT_FS17_Labor_1_Team_Birrer_Mazlagic_Printversin.pdf
+DOC_OUT_PRINT = EMANT_FS17_Labor_1_Team_Birrer_Mazlagic_Printversion.pdf
 DOC_OUT_ONLINE = EMANT_FS17_Labor_1_Team_Birrer_Mazlagic_Onlineversion.pdf
 OBJ_DIR = ./obj
 FIG_DIR = ./../fig
