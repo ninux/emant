@@ -58,7 +58,7 @@
     \put(0.52609947,0.53925195){\color[rgb]{1,0.78431373,0}\makebox(0,0)[b]{\smash{Z}}}%
     \put(0.72338677,0.49979449){\color[rgb]{1,0.78431373,0}\makebox(0,0)[b]{\smash{X}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{./../fig/gph/starlab_setup_annotated.pdf}}%
-    \put(0.46033703,0.27620222){\color[rgb]{0,0,0.78431373}\makebox(0,0)[b]{\smash{Drehrichtung}}}%
+    \put(0.43403206,0.28935471){\color[rgb]{0,0,0.78431373}\makebox(0,0)[b]{\smash{Drehrichtung}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{./../fig/gph/starlab_setup_annotated.pdf}}%
     \put(0.52609947,0.3945746){\color[rgb]{1,0,0}\makebox(0,0)[b]{\smash{DUT}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{./../fig/gph/starlab_setup_annotated.pdf}}%
@@ -66,5 +66,8 @@
     \put(0.85491163,0.06576243){\color[rgb]{0,1,0.78431373}\makebox(0,0)[b]{\smash{mit leitfähigen}}}%
     \put(0.85491163,0.03223973){\color[rgb]{0,1,0.78431373}\makebox(0,0)[b]{\smash{Schaumstoffpyramiden}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{./../fig/gph/starlab_setup_annotated.pdf}}%
+    \put(0.5918619,0.3945746){\color[rgb]{0,0,0.78431373}\makebox(0,0)[lb]{\smash{\SI{0}{\degree}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{./../fig/gph/starlab_setup_annotated.pdf}}%
+    \put(0.43403206,0.26304973){\color[rgb]{0,0,0.78431373}\makebox(0,0)[b]{\smash{der Plattform}}}%
   \end{picture}%
 \endgroup%

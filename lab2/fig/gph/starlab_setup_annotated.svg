@@ -221,9 +221,9 @@
      inkscape:window-height="879"
      id="namedview4192"
      showgrid="true"
-     inkscape:zoom="0.62777004"
-     inkscape:cx="346.78542"
-     inkscape:cy="238.54376"
+     inkscape:zoom="1.2555401"
+     inkscape:cx="386.07021"
+     inkscape:cy="241.85809"
      inkscape:window-x="0"
      inkscape:window-y="19"
      inkscape:window-maximized="0"
@@ -1484,21 +1484,21 @@ UASjqfpTj1oooGf/2Q==
        y="385.9375">X</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#0000c8;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4611)"
-     d="m 400,515.9375 c 0,0 -125.22118,10 -184.69057,-25.9294"
+     d="m 440,515.9375 c -30,10 -170,10 -220,-10"
      id="path4609"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="350"
-     y="555.9375"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="330"
+     y="545.9375"
      id="text4615"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4617"
-       x="350"
-       y="555.9375">Drehrichtung</tspan></text>
+       x="330"
+       y="545.9375">Drehrichtung</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffc800;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-7-6)"
      d="M 410,205.9375 510,190.22758"
@@ -1579,4 +1579,38 @@ UASjqfpTj1oooGf/2Q==
      id="path4766-9"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000c8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+     d="m 410,445.9375 30,20 c 0,0 10,143.98346 -50,154.77993"
+     id="path4812"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="450"
+     y="465.9375"
+     id="text4814"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4816"
+       x="450"
+       y="465.9375">\SI{0}{\degree}</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000c8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 350,425.9375 -140,29.99999 c 0,0 -20,110.00001 90,150.00001"
+     id="path4812-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="330"
+     y="565.9375"
+     id="text4615-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4617-6"
+       x="330"
+       y="565.9375">der Plattform</tspan></text>
 </svg>
